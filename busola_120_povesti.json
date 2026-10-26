@@ -1,0 +1,4957 @@
+{
+  "schemaVersion": 1,
+  "title": "BUSOLA — 120 experiențe draft originale",
+  "note": "Conținut editorial draft; perspectivele biblice necesită verificare separată.",
+  "ageGroups": [
+    {
+      "id": "25-34",
+      "stage": "Construcție",
+      "subtitle": "Carieră și disciplină"
+    },
+    {
+      "id": "35-44",
+      "stage": "Responsabilitate",
+      "subtitle": "Echilibru și claritate"
+    },
+    {
+      "id": "45-59",
+      "stage": "Maturitate",
+      "subtitle": "Experiență și adaptare"
+    },
+    {
+      "id": "60+",
+      "stage": "Înțelepciune",
+      "subtitle": "Sens și continuitate"
+    }
+  ],
+  "chapters": [
+    "Gândire critică și discernământ",
+    "Decizii și priorități",
+    "Emoții și autoreglare",
+    "Relații și comunicare",
+    "Disciplină și adaptare",
+    "Valori, sens și acțiune"
+  ],
+  "experiences": [
+    {
+      "id": "25-34-e01",
+      "slug": "oferta-cu-salariu-mai-mare",
+      "ageGroup": "25-34",
+      "lifeStage": "Construcție",
+      "chapterId": "C1",
+      "chapterTitle": "Gândire critică și discernământ",
+      "ordinal": 1,
+      "title": "Oferta cu salariu mai mare",
+      "context": "Alex primește o ofertă mai bine plătită, dar programul include multe seri și weekenduri.",
+      "choices": [
+        {
+          "id": "option-1",
+          "text": "Accept imediat",
+          "consequenceId": "consequence-1",
+          "consequence": "Venitul crește, însă proiectele personale devin greu de continuat."
+        },
+        {
+          "id": "option-2",
+          "text": "Refuz fără discuții",
+          "consequenceId": "consequence-2",
+          "consequence": "Păstrează stabilitatea, dar nu află dacă programul era negociabil."
+        },
+        {
+          "id": "option-3",
+          "text": "Cer detalii și negociez",
+          "consequenceId": "consequence-3",
+          "consequence": "Află responsabilitățile reale, fără garanția unei oferte mai bune."
+        }
+      ],
+      "reflection": "Ce înseamnă progresul pentru tine în afara salariului?",
+      "perspective": {
+        "text": "Perspectivă editorială de adăugat și verificat; nu prezenta acest câmp ca aprobat.",
+        "status": "pending_human_review"
+      },
+      "practicalAction": "Scrie trei condiții minime pentru următorul job.",
+      "completion": "Poți reveni asupra poveștii și explora altă alegere. Nu există un scor al persoanei tale.",
+      "editorialStatus": "draft",
+      "rightsStatus": "pending",
+      "contentVersion": 1
+    },
+    {
+      "id": "25-34-e02",
+      "slug": "doua-stiri-despre-aceeasi-decizie",
+      "ageGroup": "25-34",
+      "lifeStage": "Construcție",
+      "chapterId": "C1",
+      "chapterTitle": "Gândire critică și discernământ",
+      "ordinal": 2,
+      "title": "Două știri despre aceeași decizie",
+      "context": "Bianca citește două articole despre o măsură economică. Unul promite beneficii, celălalt anunță un dezastru.",
+      "choices": [
+        {
+          "id": "option-1",
+          "text": "Distribui articolul preferat",
+          "consequenceId": "consequence-1",
+          "consequence": "Prietenii îl citesc, dar interpretarea poate fi incompletă."
+        },
+        {
+          "id": "option-2",
+          "text": "Le resping pe amândouă",
+          "consequenceId": "consequence-2",
+          "consequence": "Evită o concluzie pripită, dar rămâne neinformată."
+        },
+        {
+          "id": "option-3",
+          "text": "Compar sursele originale",
+          "consequenceId": "consequence-3",
+          "consequence": "Înțelege ce este confirmat și ce reprezintă opinie."
+        }
+      ],
+      "reflection": "Cum influențează titlul ceea ce crezi despre un subiect?",
+      "perspective": {
+        "text": "Perspectivă editorială de adăugat și verificat; nu prezenta acest câmp ca aprobat.",
+        "status": "pending_human_review"
+      },
+      "practicalAction": "Găsește sursa primară a unei afirmații recente.",
+      "completion": "Poți reveni asupra poveștii și explora altă alegere. Nu există un scor al persoanei tale.",
+      "editorialStatus": "draft",
+      "rightsStatus": "pending",
+      "contentVersion": 1
+    },
+    {
+      "id": "25-34-e03",
+      "slug": "portofoliul-prea-frumos",
+      "ageGroup": "25-34",
+      "lifeStage": "Construcție",
+      "chapterId": "C1",
+      "chapterTitle": "Gândire critică și discernământ",
+      "ordinal": 3,
+      "title": "Portofoliul prea frumos",
+      "context": "Radu vede pe rețele profilul unui antreprenor care promite venit garantat după un curs costisitor.",
+      "choices": [
+        {
+          "id": "option-1",
+          "text": "Cumpăr cursul azi",
+          "consequenceId": "consequence-1",
+          "consequence": "Plătește înainte să verifice dacă promisiunile au dovezi."
+        },
+        {
+          "id": "option-2",
+          "text": "Îl numesc înșelător fără verificare",
+          "consequenceId": "consequence-2",
+          "consequence": "Poate avea dreptate, dar nu deține suficiente informații."
+        },
+        {
+          "id": "option-3",
+          "text": "Verific rezultate și condiții",
+          "consequenceId": "consequence-3",
+          "consequence": "Poate compara costuri, recenzii și politica de rambursare."
+        }
+      ],
+      "reflection": "Care este diferența dintre poveste de succes și dovadă?",
+      "perspective": {
+        "text": "Perspectivă editorială de adăugat și verificat; nu prezenta acest câmp ca aprobat.",
+        "status": "pending_human_review"
+      },
+      "practicalAction": "Notează două verificări înaintea unui curs plătit.",
+      "completion": "Poți reveni asupra poveștii și explora altă alegere. Nu există un scor al persoanei tale.",
+      "editorialStatus": "draft",
+      "rightsStatus": "pending",
+      "contentVersion": 1
+    },
+    {
+      "id": "25-34-e04",
+      "slug": "recenzia-de-o-stea",
+      "ageGroup": "25-34",
+      "lifeStage": "Construcție",
+      "chapterId": "C1",
+      "chapterTitle": "Gândire critică și discernământ",
+      "ordinal": 4,
+      "title": "Recenzia de o stea",
+      "context": "Ioana alege un cabinet după recenzii; găsește una foarte negativă, fără detalii, lângă multe opinii pozitive.",
+      "choices": [
+        {
+          "id": "option-1",
+          "text": "Anulez imediat",
+          "consequenceId": "consequence-1",
+          "consequence": "Evită un risc posibil, dar poate rata un serviciu potrivit."
+        },
+        {
+          "id": "option-2",
+          "text": "Ignor complet recenzia",
+          "consequenceId": "consequence-2",
+          "consequence": "Decide repede, însă pierde un semnal ce merită evaluat."
+        },
+        {
+          "id": "option-3",
+          "text": "Caut tipare și informații verificabile",
+          "consequenceId": "consequence-3",
+          "consequence": "Capătă o imagine mai nuanțată, fără certitudine totală."
+        }
+      ],
+      "reflection": "Câtă greutate dai unei relatări izolate?",
+      "perspective": {
+        "text": "Perspectivă editorială de adăugat și verificat; nu prezenta acest câmp ca aprobat.",
+        "status": "pending_human_review"
+      },
+      "practicalAction": "Compară trei surse înainte de o alegere de servicii.",
+      "completion": "Poți reveni asupra poveștii și explora altă alegere. Nu există un scor al persoanei tale.",
+      "editorialStatus": "draft",
+      "rightsStatus": "pending",
+      "contentVersion": 1
+    },
+    {
+      "id": "25-34-e05",
+      "slug": "screenshotul-fara-context",
+      "ageGroup": "25-34",
+      "lifeStage": "Construcție",
+      "chapterId": "C1",
+      "chapterTitle": "Gândire critică și discernământ",
+      "ordinal": 5,
+      "title": "Screenshotul fără context",
+      "context": "Într-un grup de prieteni circulă un screenshot care pare să arate o remarcă jignitoare făcută de un coleg.",
+      "choices": [
+        {
+          "id": "option-1",
+          "text": "Îl confrunt public",
+          "consequenceId": "consequence-1",
+          "consequence": "Conflictul crește înainte ca proveniența imaginii să fie clară."
+        },
+        {
+          "id": "option-2",
+          "text": "Ignor totul",
+          "consequenceId": "consequence-2",
+          "consequence": "Evită participarea, dar zvonul se răspândește."
+        },
+        {
+          "id": "option-3",
+          "text": "Verific contextul discret",
+          "consequenceId": "consequence-3",
+          "consequence": "Poate descoperi dacă imaginea a fost decupată sau interpretată greșit."
+        }
+      ],
+      "reflection": "Ce pierzi când transformi o presupunere în verdict?",
+      "perspective": {
+        "text": "Perspectivă editorială de adăugat și verificat; nu prezenta acest câmp ca aprobat.",
+        "status": "pending_human_review"
+      },
+      "practicalAction": "Nu redistribui o captură fără context.",
+      "completion": "Poți reveni asupra poveștii și explora altă alegere. Nu există un scor al persoanei tale.",
+      "editorialStatus": "draft",
+      "rightsStatus": "pending",
+      "contentVersion": 1
+    },
+    {
+      "id": "25-34-e06",
+      "slug": "prima-rezerva-de-bani",
+      "ageGroup": "25-34",
+      "lifeStage": "Construcție",
+      "chapterId": "C2",
+      "chapterTitle": "Decizii și priorități",
+      "ordinal": 6,
+      "title": "Prima rezervă de bani",
+      "context": "Bianca economisește pentru o mutare, dar cheltuielile mici de fiecare zi consumă bugetul.",
+      "choices": [
+        {
+          "id": "option-1",
+          "text": "Elimin orice ieșire",
+          "consequenceId": "consequence-1",
+          "consequence": "Economiile cresc, însă planul poate deveni nesustenabil."
+        },
+        {
+          "id": "option-2",
+          "text": "Nu schimb nimic",
+          "consequenceId": "consequence-2",
+          "consequence": "Păstrează confortul prezent, dar obiectivul se îndepărtează."
+        },
+        {
+          "id": "option-3",
+          "text": "Setez o sumă realistă",
+          "consequenceId": "consequence-3",
+          "consequence": "Poate urmări progresul și ajusta cheltuielile."
+        }
+      ],
+      "reflection": "Ce cheltuieli îți aduc cu adevărat valoare?",
+      "perspective": {
+        "text": "Perspectivă editorială de adăugat și verificat; nu prezenta acest câmp ca aprobat.",
+        "status": "pending_human_review"
+      },
+      "practicalAction": "Alege o sumă lunară realizabilă de economisit.",
+      "completion": "Poți reveni asupra poveștii și explora altă alegere. Nu există un scor al persoanei tale.",
+      "editorialStatus": "draft",
+      "rightsStatus": "pending",
+      "contentVersion": 1
+    },
+    {
+      "id": "25-34-e07",
+      "slug": "oferta-care-expira",
+      "ageGroup": "25-34",
+      "lifeStage": "Construcție",
+      "chapterId": "C2",
+      "chapterTitle": "Decizii și priorități",
+      "ordinal": 7,
+      "title": "Oferta care expiră",
+      "context": "Aspiratorul lui Dan se strică. Un model urmărit costă 420 lei pentru încă douăzeci de minute, dar are nevoie și de reparația bicicletei.",
+      "choices": [
+        {
+          "id": "option-1",
+          "text": "Cumpăr imediat",
+          "consequenceId": "consequence-1",
+          "consequence": "Rezolvă problema aspiratorului, dar își reduce rezerva pentru bicicletă."
+        },
+        {
+          "id": "option-2",
+          "text": "Las oferta să treacă",
+          "consequenceId": "consequence-2",
+          "consequence": "Protejează rezerva, însă aspiratorul rămâne de înlocuit."
+        },
+        {
+          "id": "option-3",
+          "text": "Verific totalul și alternativele",
+          "consequenceId": "consequence-3",
+          "consequence": "Obține informații mai bune, dar prețul poate expira."
+        }
+      ],
+      "reflection": "Ai decide la fel dacă nu ar exista cronometru?",
+      "perspective": {
+        "text": "Perspectivă editorială de adăugat și verificat; nu prezenta acest câmp ca aprobat.",
+        "status": "pending_human_review"
+      },
+      "practicalAction": "Compară totalul, o alternativă și rezerva minimă.",
+      "completion": "Poți reveni asupra poveștii și explora altă alegere. Nu există un scor al persoanei tale.",
+      "editorialStatus": "draft",
+      "rightsStatus": "pending",
+      "contentVersion": 1
+    },
+    {
+      "id": "25-34-e08",
+      "slug": "colegul-de-apartament",
+      "ageGroup": "25-34",
+      "lifeStage": "Construcție",
+      "chapterId": "C2",
+      "chapterTitle": "Decizii și priorități",
+      "ordinal": 8,
+      "title": "Colegul de apartament",
+      "context": "Mara și colega ei vor să se mute într-un apartament mai scump, aproape de centru, deși veniturile lor variază.",
+      "choices": [
+        {
+          "id": "option-1",
+          "text": "Semnez imediat",
+          "consequenceId": "consequence-1",
+          "consequence": "Câștigă confort, dar un venit slab poate crea presiune financiară."
+        },
+        {
+          "id": "option-2",
+          "text": "Refuz din principiu",
+          "consequenceId": "consequence-2",
+          "consequence": "Evită costul, dar pierde un avantaj real de transport."
+        },
+        {
+          "id": "option-3",
+          "text": "Simulez bugetul pentru luni dificile",
+          "consequenceId": "consequence-3",
+          "consequence": "Vede ce compromisuri ar presupune mutarea."
+        }
+      ],
+      "reflection": "Ce costuri nu apar în chiria afișată?",
+      "perspective": {
+        "text": "Perspectivă editorială de adăugat și verificat; nu prezenta acest câmp ca aprobat.",
+        "status": "pending_human_review"
+      },
+      "practicalAction": "Calculează costul locuinței pentru o lună obișnuită.",
+      "completion": "Poți reveni asupra poveștii și explora altă alegere. Nu există un scor al persoanei tale.",
+      "editorialStatus": "draft",
+      "rightsStatus": "pending",
+      "contentVersion": 1
+    },
+    {
+      "id": "25-34-e09",
+      "slug": "vacanta-tuturor",
+      "ageGroup": "25-34",
+      "lifeStage": "Construcție",
+      "chapterId": "C2",
+      "chapterTitle": "Decizii și priorități",
+      "ordinal": 9,
+      "title": "Vacanța tuturor",
+      "context": "Grupul plănuiește o vacanță peste bugetul lui Vlad. Toți rezervă până seara.",
+      "choices": [
+        {
+          "id": "option-1",
+          "text": "Împrumut bani și merg",
+          "consequenceId": "consequence-1",
+          "consequence": "Se alătură grupului, dar începe vacanța cu o datorie."
+        },
+        {
+          "id": "option-2",
+          "text": "Spun că nu vreau să îi văd",
+          "consequenceId": "consequence-2",
+          "consequence": "Își protejează bugetul, dar comunică o nemulțumire falsă."
+        },
+        {
+          "id": "option-3",
+          "text": "Explic limita și propun o alternativă",
+          "consequenceId": "consequence-3",
+          "consequence": "Unii prieteni se adaptează; alții își păstrează planul."
+        }
+      ],
+      "reflection": "Cât valorează apartenența dacă trebuie finanțată din datorii?",
+      "perspective": {
+        "text": "Perspectivă editorială de adăugat și verificat; nu prezenta acest câmp ca aprobat.",
+        "status": "pending_human_review"
+      },
+      "practicalAction": "Formulează un refuz financiar politicos.",
+      "completion": "Poți reveni asupra poveștii și explora altă alegere. Nu există un scor al persoanei tale.",
+      "editorialStatus": "draft",
+      "rightsStatus": "pending",
+      "contentVersion": 1
+    },
+    {
+      "id": "25-34-e10",
+      "slug": "al-doilea-job",
+      "ageGroup": "25-34",
+      "lifeStage": "Construcție",
+      "chapterId": "C2",
+      "chapterTitle": "Decizii și priorități",
+      "ordinal": 10,
+      "title": "Al doilea job",
+      "context": "Sorina primește un proiect freelance profitabil, dar se suprapune peste pregătirea unui examen.",
+      "choices": [
+        {
+          "id": "option-1",
+          "text": "Accept tot",
+          "consequenceId": "consequence-1",
+          "consequence": "Câștigă bani, dar învață mai puțin și doarme mai puțin."
+        },
+        {
+          "id": "option-2",
+          "text": "Respinge proiectul fără analiză",
+          "consequenceId": "consequence-2",
+          "consequence": "Își protejează timpul, dar nu evaluează posibilitățile."
+        },
+        {
+          "id": "option-3",
+          "text": "Negociază livrarea și estimează orele",
+          "consequenceId": "consequence-3",
+          "consequence": "Află dacă poate combina realist cele două obiective."
+        }
+      ],
+      "reflection": "Care resursă este cu adevărat limitată aici?",
+      "perspective": {
+        "text": "Perspectivă editorială de adăugat și verificat; nu prezenta acest câmp ca aprobat.",
+        "status": "pending_human_review"
+      },
+      "practicalAction": "Notează orele disponibile înainte să promiți un termen.",
+      "completion": "Poți reveni asupra poveștii și explora altă alegere. Nu există un scor al persoanei tale.",
+      "editorialStatus": "draft",
+      "rightsStatus": "pending",
+      "contentVersion": 1
+    },
+    {
+      "id": "25-34-e11",
+      "slug": "mesajul-trimis-la-nervi",
+      "ageGroup": "25-34",
+      "lifeStage": "Construcție",
+      "chapterId": "C3",
+      "chapterTitle": "Emoții și autoreglare",
+      "ordinal": 11,
+      "title": "Mesajul trimis la nervi",
+      "context": "După o critică la serviciu, Tudor redactează un răspuns sarcastic pentru manager.",
+      "choices": [
+        {
+          "id": "option-1",
+          "text": "Trimit acum",
+          "consequenceId": "consequence-1",
+          "consequence": "Își exprimă frustrarea, dar mesajul poate afecta colaborarea."
+        },
+        {
+          "id": "option-2",
+          "text": "Nu mai discut niciodată",
+          "consequenceId": "consequence-2",
+          "consequence": "Evită conflictul imediat, însă problema rămâne."
+        },
+        {
+          "id": "option-3",
+          "text": "Aștept și formulez faptele",
+          "consequenceId": "consequence-3",
+          "consequence": "Poate ridica problema fără atac personal."
+        }
+      ],
+      "reflection": "Ce parte a mesajului spune ceva util?",
+      "perspective": {
+        "text": "Perspectivă editorială de adăugat și verificat; nu prezenta acest câmp ca aprobat.",
+        "status": "pending_human_review"
+      },
+      "practicalAction": "Rescrie o frază acuzatoare ca observație.",
+      "completion": "Poți reveni asupra poveștii și explora altă alegere. Nu există un scor al persoanei tale.",
+      "editorialStatus": "draft",
+      "rightsStatus": "pending",
+      "contentVersion": 1
+    },
+    {
+      "id": "25-34-e12",
+      "slug": "comparatia-de-pe-instagram",
+      "ageGroup": "25-34",
+      "lifeStage": "Construcție",
+      "chapterId": "C3",
+      "chapterTitle": "Emoții și autoreglare",
+      "ordinal": 12,
+      "title": "Comparația de pe Instagram",
+      "context": "Daria vede că prietenii par să avanseze mai repede financiar și profesional.",
+      "choices": [
+        {
+          "id": "option-1",
+          "text": "Schimb planurile în grabă",
+          "consequenceId": "consequence-1",
+          "consequence": "Începe să urmărească obiective care poate nu sunt ale ei."
+        },
+        {
+          "id": "option-2",
+          "text": "Închid toate conturile",
+          "consequenceId": "consequence-2",
+          "consequence": "Reduce comparația, dar pierde și utilizări valoroase."
+        },
+        {
+          "id": "option-3",
+          "text": "Îmi definesc propriile repere",
+          "consequenceId": "consequence-3",
+          "consequence": "Distanțează imaginea publică de prioritățile personale."
+        }
+      ],
+      "reflection": "Cu cine te compari și de ce?",
+      "perspective": {
+        "text": "Perspectivă editorială de adăugat și verificat; nu prezenta acest câmp ca aprobat.",
+        "status": "pending_human_review"
+      },
+      "practicalAction": "Scrie un progres care nu se vede online.",
+      "completion": "Poți reveni asupra poveștii și explora altă alegere. Nu există un scor al persoanei tale.",
+      "editorialStatus": "draft",
+      "rightsStatus": "pending",
+      "contentVersion": 1
+    },
+    {
+      "id": "25-34-e13",
+      "slug": "greseala-de-la-prezentare",
+      "ageGroup": "25-34",
+      "lifeStage": "Construcție",
+      "chapterId": "C3",
+      "chapterTitle": "Emoții și autoreglare",
+      "ordinal": 13,
+      "title": "Greșeala de la prezentare",
+      "context": "Andrei uită o informație importantă în fața echipei și își imaginează că toți îl consideră incompetent.",
+      "choices": [
+        {
+          "id": "option-1",
+          "text": "Mă justific agresiv",
+          "consequenceId": "consequence-1",
+          "consequence": "Încearcă să se apere, dar distrage atenția de la corectare."
+        },
+        {
+          "id": "option-2",
+          "text": "Nu mai particip la prezentări",
+          "consequenceId": "consequence-2",
+          "consequence": "Evită disconfortul, dar pierde ocazii de a exersa."
+        },
+        {
+          "id": "option-3",
+          "text": "Recunosc omisiunea și trimit completarea",
+          "consequenceId": "consequence-3",
+          "consequence": "Corectează informația fără să pretindă perfecțiune."
+        }
+      ],
+      "reflection": "Ce dovadă ai despre cum te-au evaluat ceilalți?",
+      "perspective": {
+        "text": "Perspectivă editorială de adăugat și verificat; nu prezenta acest câmp ca aprobat.",
+        "status": "pending_human_review"
+      },
+      "practicalAction": "Notează ce ai învățat dintr-o greșeală.",
+      "completion": "Poți reveni asupra poveștii și explora altă alegere. Nu există un scor al persoanei tale.",
+      "editorialStatus": "draft",
+      "rightsStatus": "pending",
+      "contentVersion": 1
+    },
+    {
+      "id": "25-34-e14",
+      "slug": "limita-de-dupa-program",
+      "ageGroup": "25-34",
+      "lifeStage": "Construcție",
+      "chapterId": "C3",
+      "chapterTitle": "Emoții și autoreglare",
+      "ordinal": 14,
+      "title": "Limita de după program",
+      "context": "Telefonul lui Mihai sună seară de seară pentru sarcini ce par să poată aștepta.",
+      "choices": [
+        {
+          "id": "option-1",
+          "text": "Răspund mereu",
+          "consequenceId": "consequence-1",
+          "consequence": "Pare disponibil, dar recuperarea devine tot mai dificilă."
+        },
+        {
+          "id": "option-2",
+          "text": "Nu răspund nimănui niciodată",
+          "consequenceId": "consequence-2",
+          "consequence": "Protejează seara, dar nu clarifică urgențele reale."
+        },
+        {
+          "id": "option-3",
+          "text": "Stabilesc reguli cu echipa",
+          "consequenceId": "consequence-3",
+          "consequence": "Face distincția între urgențe și obiceiuri."
+        }
+      ],
+      "reflection": "Ce așteptări ai acceptat fără negociere?",
+      "perspective": {
+        "text": "Perspectivă editorială de adăugat și verificat; nu prezenta acest câmp ca aprobat.",
+        "status": "pending_human_review"
+      },
+      "practicalAction": "Definește o regulă pentru comunicarea după program.",
+      "completion": "Poți reveni asupra poveștii și explora altă alegere. Nu există un scor al persoanei tale.",
+      "editorialStatus": "draft",
+      "rightsStatus": "pending",
+      "contentVersion": 1
+    },
+    {
+      "id": "25-34-e15",
+      "slug": "ziua-pierduta",
+      "ageGroup": "25-34",
+      "lifeStage": "Construcție",
+      "chapterId": "C3",
+      "chapterTitle": "Emoții și autoreglare",
+      "ordinal": 15,
+      "title": "Ziua pierdută",
+      "context": "Ioana a amânat o sarcină importantă și simte că tot restul zilei nu mai contează.",
+      "choices": [
+        {
+          "id": "option-1",
+          "text": "Renunț la orice plan",
+          "consequenceId": "consequence-1",
+          "consequence": "Evită disconfortul, dar seara aduce încă o amânare."
+        },
+        {
+          "id": "option-2",
+          "text": "Muncesc până noaptea",
+          "consequenceId": "consequence-2",
+          "consequence": "Recuperează o parte, dar riscă să repete ciclul de epuizare."
+        },
+        {
+          "id": "option-3",
+          "text": "Aleg o etapă mică de făcut acum",
+          "consequenceId": "consequence-3",
+          "consequence": "Reia controlul asupra unei porțiuni a sarcinii."
+        }
+      ],
+      "reflection": "De ce un început imperfect pare uneori inutil?",
+      "perspective": {
+        "text": "Perspectivă editorială de adăugat și verificat; nu prezenta acest câmp ca aprobat.",
+        "status": "pending_human_review"
+      },
+      "practicalAction": "Lucrează zece minute la un pas clar.",
+      "completion": "Poți reveni asupra poveștii și explora altă alegere. Nu există un scor al persoanei tale.",
+      "editorialStatus": "draft",
+      "rightsStatus": "pending",
+      "contentVersion": 1
+    },
+    {
+      "id": "25-34-e16",
+      "slug": "timpul-in-doi",
+      "ageGroup": "25-34",
+      "lifeStage": "Construcție",
+      "chapterId": "C4",
+      "chapterTitle": "Relații și comunicare",
+      "ordinal": 16,
+      "title": "Timpul în doi",
+      "context": "La începutul relației, partenerul Elenei dorește să petreacă împreună fiecare seară.",
+      "choices": [
+        {
+          "id": "option-1",
+          "text": "Renunț la hobbyuri",
+          "consequenceId": "consequence-1",
+          "consequence": "Relația primește atenție, dar Elena își pierde spațiul personal."
+        },
+        {
+          "id": "option-2",
+          "text": "Mă retrag fără explicații",
+          "consequenceId": "consequence-2",
+          "consequence": "Își protejează timpul, dar celălalt se simte respins."
+        },
+        {
+          "id": "option-3",
+          "text": "Discut nevoile amândurora",
+          "consequenceId": "consequence-3",
+          "consequence": "Pot conveni timp comun și timp individual."
+        }
+      ],
+      "reflection": "Cum poți fi apropiat fără să renunți la autonomie?",
+      "perspective": {
+        "text": "Perspectivă editorială de adăugat și verificat; nu prezenta acest câmp ca aprobat.",
+        "status": "pending_human_review"
+      },
+      "practicalAction": "Spune o nevoie personală fără reproș.",
+      "completion": "Poți reveni asupra poveștii și explora altă alegere. Nu există un scor al persoanei tale.",
+      "editorialStatus": "draft",
+      "rightsStatus": "pending",
+      "contentVersion": 1
+    },
+    {
+      "id": "25-34-e17",
+      "slug": "prietenii-care-s-au-schimbat",
+      "ageGroup": "25-34",
+      "lifeStage": "Construcție",
+      "chapterId": "C4",
+      "chapterTitle": "Relații și comunicare",
+      "ordinal": 17,
+      "title": "Prietenii care s-au schimbat",
+      "context": "Grupul vechi al lui Vlad preferă activități care nu îl mai reprezintă.",
+      "choices": [
+        {
+          "id": "option-1",
+          "text": "Merg din obligație",
+          "consequenceId": "consequence-1",
+          "consequence": "Păstrează tradiția, dar acumulează frustrare."
+        },
+        {
+          "id": "option-2",
+          "text": "Rup toate legăturile",
+          "consequenceId": "consequence-2",
+          "consequence": "Câștigă libertate, dar pierde conexiuni valoroase."
+        },
+        {
+          "id": "option-3",
+          "text": "Propun alte întâlniri",
+          "consequenceId": "consequence-3",
+          "consequence": "Unele prietenii se adaptează, altele devin mai rare."
+        }
+      ],
+      "reflection": "Când loialitatea se confundă cu conformarea?",
+      "perspective": {
+        "text": "Perspectivă editorială de adăugat și verificat; nu prezenta acest câmp ca aprobat.",
+        "status": "pending_human_review"
+      },
+      "practicalAction": "Invită un prieten la o activitate nouă.",
+      "completion": "Poți reveni asupra poveștii și explora altă alegere. Nu există un scor al persoanei tale.",
+      "editorialStatus": "draft",
+      "rightsStatus": "pending",
+      "contentVersion": 1
+    },
+    {
+      "id": "25-34-e18",
+      "slug": "colegul-care-isi-atribuie-munca",
+      "ageGroup": "25-34",
+      "lifeStage": "Construcție",
+      "chapterId": "C4",
+      "chapterTitle": "Relații și comunicare",
+      "ordinal": 18,
+      "title": "Colegul care își atribuie munca",
+      "context": "O prezentare a echipei o prezintă pe Roxana drept simplu sprijin, deși a realizat analiza principală.",
+      "choices": [
+        {
+          "id": "option-1",
+          "text": "Îl acuz public",
+          "consequenceId": "consequence-1",
+          "consequence": "Obține atenție, dar conflictul poate escalada."
+        },
+        {
+          "id": "option-2",
+          "text": "Tac și sper să se observe",
+          "consequenceId": "consequence-2",
+          "consequence": "Păstrează liniștea, dar contribuția rămâne neclară."
+        },
+        {
+          "id": "option-3",
+          "text": "Documentez și discut concret",
+          "consequenceId": "consequence-3",
+          "consequence": "Poate cere corectarea recunoașterii fără a ataca persoana."
+        }
+      ],
+      "reflection": "Cum aperi un drept fără umilirea celuilalt?",
+      "perspective": {
+        "text": "Perspectivă editorială de adăugat și verificat; nu prezenta acest câmp ca aprobat.",
+        "status": "pending_human_review"
+      },
+      "practicalAction": "Descrie contribuția proprie în trei fapte.",
+      "completion": "Poți reveni asupra poveștii și explora altă alegere. Nu există un scor al persoanei tale.",
+      "editorialStatus": "draft",
+      "rightsStatus": "pending",
+      "contentVersion": 1
+    },
+    {
+      "id": "25-34-e19",
+      "slug": "discutia-despre-mutare",
+      "ageGroup": "25-34",
+      "lifeStage": "Construcție",
+      "chapterId": "C4",
+      "chapterTitle": "Relații și comunicare",
+      "ordinal": 19,
+      "title": "Discuția despre mutare",
+      "context": "Un partener vrea să se mute în alt oraș pentru un job; celălalt are relații și proiecte locale.",
+      "choices": [
+        {
+          "id": "option-1",
+          "text": "Accept fără discuții",
+          "consequenceId": "consequence-1",
+          "consequence": "Oferă sprijin, dar poate acumula resentimente."
+        },
+        {
+          "id": "option-2",
+          "text": "Refuz fără să ascult",
+          "consequenceId": "consequence-2",
+          "consequence": "Păstrează stabilitatea, dar pierde date importante."
+        },
+        {
+          "id": "option-3",
+          "text": "Explorăm costurile pentru amândoi",
+          "consequenceId": "consequence-3",
+          "consequence": "Pot negocia un plan, chiar dacă soluția rămâne dificilă."
+        }
+      ],
+      "reflection": "A cui nevoie este invizibilă în conversație?",
+      "perspective": {
+        "text": "Perspectivă editorială de adăugat și verificat; nu prezenta acest câmp ca aprobat.",
+        "status": "pending_human_review"
+      },
+      "practicalAction": "Scrie câte două nevoi pentru fiecare persoană.",
+      "completion": "Poți reveni asupra poveștii și explora altă alegere. Nu există un scor al persoanei tale.",
+      "editorialStatus": "draft",
+      "rightsStatus": "pending",
+      "contentVersion": 1
+    },
+    {
+      "id": "25-34-e20",
+      "slug": "mesajul-citit-gresit",
+      "ageGroup": "25-34",
+      "lifeStage": "Construcție",
+      "chapterId": "C4",
+      "chapterTitle": "Relații și comunicare",
+      "ordinal": 20,
+      "title": "Mesajul citit greșit",
+      "context": "Un prieten răspunde sec după o discuție; Alina presupune că este supărat pe ea.",
+      "choices": [
+        {
+          "id": "option-1",
+          "text": "Trimit reproșuri",
+          "consequenceId": "consequence-1",
+          "consequence": "Poate crea un conflict care nu exista."
+        },
+        {
+          "id": "option-2",
+          "text": "Mă retrag zile întregi",
+          "consequenceId": "consequence-2",
+          "consequence": "Se protejează, dar lasă ambiguitatea să crească."
+        },
+        {
+          "id": "option-3",
+          "text": "Întreb ce a vrut să spună",
+          "consequenceId": "consequence-3",
+          "consequence": "Poate afla că mesajul a fost scris în grabă."
+        }
+      ],
+      "reflection": "Ce diferență există între fapt și interpretare?",
+      "perspective": {
+        "text": "Perspectivă editorială de adăugat și verificat; nu prezenta acest câmp ca aprobat.",
+        "status": "pending_human_review"
+      },
+      "practicalAction": "Formulează o întrebare de clarificare.",
+      "completion": "Poți reveni asupra poveștii și explora altă alegere. Nu există un scor al persoanei tale.",
+      "editorialStatus": "draft",
+      "rightsStatus": "pending",
+      "contentVersion": 1
+    },
+    {
+      "id": "25-34-e21",
+      "slug": "inca-un-proiect-nou",
+      "ageGroup": "25-34",
+      "lifeStage": "Construcție",
+      "chapterId": "C5",
+      "chapterTitle": "Disciplină și adaptare",
+      "ordinal": 21,
+      "title": "Încă un proiect nou",
+      "context": "Radu începe entuziast proiecte, apoi le abandonează când apar dificultăți.",
+      "choices": [
+        {
+          "id": "option-1",
+          "text": "Încep unul nou imediat",
+          "consequenceId": "consequence-1",
+          "consequence": "Entuziasmul revine, dar proiectele se acumulează."
+        },
+        {
+          "id": "option-2",
+          "text": "Nu mai încerc nimic",
+          "consequenceId": "consequence-2",
+          "consequence": "Reduce riscul de abandon, dar și oportunitățile."
+        },
+        {
+          "id": "option-3",
+          "text": "Aleg un proiect și o rutină mică",
+          "consequenceId": "consequence-3",
+          "consequence": "Poate vedea dacă interesul rezistă după noutate."
+        }
+      ],
+      "reflection": "Ce te ajută după dispariția entuziasmului?",
+      "perspective": {
+        "text": "Perspectivă editorială de adăugat și verificat; nu prezenta acest câmp ca aprobat.",
+        "status": "pending_human_review"
+      },
+      "practicalAction": "Stabilește o sesiune săptămânală fixă.",
+      "completion": "Poți reveni asupra poveștii și explora altă alegere. Nu există un scor al persoanei tale.",
+      "editorialStatus": "draft",
+      "rightsStatus": "pending",
+      "contentVersion": 1
+    },
+    {
+      "id": "25-34-e22",
+      "slug": "notificarile-de-fiecare-seara",
+      "ageGroup": "25-34",
+      "lifeStage": "Construcție",
+      "chapterId": "C5",
+      "chapterTitle": "Disciplină și adaptare",
+      "ordinal": 22,
+      "title": "Notificările de fiecare seară",
+      "context": "Ana deschide o aplicație „cinci minute” și pierde adesea o oră.",
+      "choices": [
+        {
+          "id": "option-1",
+          "text": "Șterg toate aplicațiile",
+          "consequenceId": "consequence-1",
+          "consequence": "Reduce distragerea, dar și accesul la funcții utile."
+        },
+        {
+          "id": "option-2",
+          "text": "Accept că așa sunt eu",
+          "consequenceId": "consequence-2",
+          "consequence": "Evită schimbarea, dar pierde timp constant."
+        },
+        {
+          "id": "option-3",
+          "text": "Observ declanșatorii și ajustez notificările",
+          "consequenceId": "consequence-3",
+          "consequence": "Poate reduce accesările automate."
+        }
+      ],
+      "reflection": "Cauți informație, divertisment sau o pauză?",
+      "perspective": {
+        "text": "Perspectivă editorială de adăugat și verificat; nu prezenta acest câmp ca aprobat.",
+        "status": "pending_human_review"
+      },
+      "practicalAction": "Oprește notificările inutile pentru o zi.",
+      "completion": "Poți reveni asupra poveștii și explora altă alegere. Nu există un scor al persoanei tale.",
+      "editorialStatus": "draft",
+      "rightsStatus": "pending",
+      "contentVersion": 1
+    },
+    {
+      "id": "25-34-e23",
+      "slug": "cursul-ramas-neterminat",
+      "ageGroup": "25-34",
+      "lifeStage": "Construcție",
+      "chapterId": "C5",
+      "chapterTitle": "Disciplină și adaptare",
+      "ordinal": 23,
+      "title": "Cursul rămas neterminat",
+      "context": "Bogdan a cumpărat trei cursuri, dar nu le-a parcurs. O ofertă nouă îl tentează.",
+      "choices": [
+        {
+          "id": "option-1",
+          "text": "Cumpăr și acesta",
+          "consequenceId": "consequence-1",
+          "consequence": "Adaugă resurse, dar nu rezolvă lipsa practicii."
+        },
+        {
+          "id": "option-2",
+          "text": "Renunț la învățare",
+          "consequenceId": "consequence-2",
+          "consequence": "Evită cheltuieli, dar pierde un obiectiv util."
+        },
+        {
+          "id": "option-3",
+          "text": "Revizuiesc ce am și aleg o lecție",
+          "consequenceId": "consequence-3",
+          "consequence": "Testează dacă problema este timpul ori interesul."
+        }
+      ],
+      "reflection": "Ce diferență este între achiziție și progres?",
+      "perspective": {
+        "text": "Perspectivă editorială de adăugat și verificat; nu prezenta acest câmp ca aprobat.",
+        "status": "pending_human_review"
+      },
+      "practicalAction": "Aplică o idee dintr-un curs deja cumpărat.",
+      "completion": "Poți reveni asupra poveștii și explora altă alegere. Nu există un scor al persoanei tale.",
+      "editorialStatus": "draft",
+      "rightsStatus": "pending",
+      "contentVersion": 1
+    },
+    {
+      "id": "25-34-e24",
+      "slug": "sportul-in-programul-aglomerat",
+      "ageGroup": "25-34",
+      "lifeStage": "Construcție",
+      "chapterId": "C5",
+      "chapterTitle": "Disciplină și adaptare",
+      "ordinal": 24,
+      "title": "Sportul în programul aglomerat",
+      "context": "Irina dorește mișcare regulată, dar anulează de fiecare dată când intervine ceva.",
+      "choices": [
+        {
+          "id": "option-1",
+          "text": "Îmi impun o oră zilnică",
+          "consequenceId": "consequence-1",
+          "consequence": "Planul este ambițios, dar poate deveni greu de respectat."
+        },
+        {
+          "id": "option-2",
+          "text": "Aștept o lună liniștită",
+          "consequenceId": "consequence-2",
+          "consequence": "Evită presiunea, dar nu există garanția acelei luni."
+        },
+        {
+          "id": "option-3",
+          "text": "Aleg sesiuni scurte și flexibile",
+          "consequenceId": "consequence-3",
+          "consequence": "Crește șansa de continuitate, adaptând efortul la propriile condiții."
+        }
+      ],
+      "reflection": "Ce rutină rămâne posibilă și într-o zi dificilă?",
+      "perspective": {
+        "text": "Perspectivă editorială de adăugat și verificat; nu prezenta acest câmp ca aprobat.",
+        "status": "pending_human_review"
+      },
+      "practicalAction": "Planifică două activități accesibile săptămâna aceasta.",
+      "completion": "Poți reveni asupra poveștii și explora altă alegere. Nu există un scor al persoanei tale.",
+      "editorialStatus": "draft",
+      "rightsStatus": "pending",
+      "contentVersion": 1
+    },
+    {
+      "id": "25-34-e25",
+      "slug": "feedbackul-care-doare",
+      "ageGroup": "25-34",
+      "lifeStage": "Construcție",
+      "chapterId": "C5",
+      "chapterTitle": "Disciplină și adaptare",
+      "ordinal": 25,
+      "title": "Feedbackul care doare",
+      "context": "Șefa îi spune lui Denis că raportul e bun, dar structura poate fi mai clară.",
+      "choices": [
+        {
+          "id": "option-1",
+          "text": "Respinge critica",
+          "consequenceId": "consequence-1",
+          "consequence": "Își apără munca, dar ratează o îmbunătățire."
+        },
+        {
+          "id": "option-2",
+          "text": "Se consideră incapabil",
+          "consequenceId": "consequence-2",
+          "consequence": "Transformă o observație punctuală în verdict personal."
+        },
+        {
+          "id": "option-3",
+          "text": "Cere un exemplu și revizuiește",
+          "consequenceId": "consequence-3",
+          "consequence": "Poate corecta raportul fără să își nege efortul."
+        }
+      ],
+      "reflection": "Cât din feedback este despre tine și cât despre produs?",
+      "perspective": {
+        "text": "Perspectivă editorială de adăugat și verificat; nu prezenta acest câmp ca aprobat.",
+        "status": "pending_human_review"
+      },
+      "practicalAction": "Cere o recomandare precisă de îmbunătățire.",
+      "completion": "Poți reveni asupra poveștii și explora altă alegere. Nu există un scor al persoanei tale.",
+      "editorialStatus": "draft",
+      "rightsStatus": "pending",
+      "contentVersion": 1
+    },
+    {
+      "id": "25-34-e26",
+      "slug": "ce-conteaza-pentru-mine",
+      "ageGroup": "25-34",
+      "lifeStage": "Construcție",
+      "chapterId": "C6",
+      "chapterTitle": "Valori, sens și acțiune",
+      "ordinal": 26,
+      "title": "Ce contează pentru mine?",
+      "context": "La o reuniune, toți vorbesc despre apartamente, promovări și statut. Clara simte că a rămas în urmă.",
+      "choices": [
+        {
+          "id": "option-1",
+          "text": "Îmi schimb obiectivele după grup",
+          "consequenceId": "consequence-1",
+          "consequence": "Poate urmări succesul altora, nu al ei."
+        },
+        {
+          "id": "option-2",
+          "text": "Mă retrag din orice conversație",
+          "consequenceId": "consequence-2",
+          "consequence": "Evită disconfortul, dar nu își clarifică valorile."
+        },
+        {
+          "id": "option-3",
+          "text": "Îmi definesc criteriile personale",
+          "consequenceId": "consequence-3",
+          "consequence": "Poate aprecia alte forme de dezvoltare."
+        }
+      ],
+      "reflection": "Cum ar arăta o viață reușită fără comparații?",
+      "perspective": {
+        "text": "Perspectivă editorială de adăugat și verificat; nu prezenta acest câmp ca aprobat.",
+        "status": "pending_human_review"
+      },
+      "practicalAction": "Scrie trei valori și câte un comportament asociat.",
+      "completion": "Poți reveni asupra poveștii și explora altă alegere. Nu există un scor al persoanei tale.",
+      "editorialStatus": "draft",
+      "rightsStatus": "pending",
+      "contentVersion": 1
+    },
+    {
+      "id": "25-34-e27",
+      "slug": "ajutorul-cu-conditii",
+      "ageGroup": "25-34",
+      "lifeStage": "Construcție",
+      "chapterId": "C6",
+      "chapterTitle": "Valori, sens și acțiune",
+      "ordinal": 27,
+      "title": "Ajutorul cu condiții",
+      "context": "Un prieten îi oferă lui Pavel o oportunitate, dar se așteaptă să primească favoruri nedefinite ulterior.",
+      "choices": [
+        {
+          "id": "option-1",
+          "text": "Accept fără întrebări",
+          "consequenceId": "consequence-1",
+          "consequence": "Primește sprijin, dar creează obligații neclare."
+        },
+        {
+          "id": "option-2",
+          "text": "Refuz orice ajutor",
+          "consequenceId": "consequence-2",
+          "consequence": "Păstrează independența, dar pierde colaborări utile."
+        },
+        {
+          "id": "option-3",
+          "text": "Clarific așteptările",
+          "consequenceId": "consequence-3",
+          "consequence": "Poate accepta în cunoștință de cauză sau refuza politicos."
+        }
+      ],
+      "reflection": "Când recunoștința devine datorie implicită?",
+      "perspective": {
+        "text": "Perspectivă editorială de adăugat și verificat; nu prezenta acest câmp ca aprobat.",
+        "status": "pending_human_review"
+      },
+      "practicalAction": "Întreabă ce presupune o ofertă înainte de a accepta.",
+      "completion": "Poți reveni asupra poveștii și explora altă alegere. Nu există un scor al persoanei tale.",
+      "editorialStatus": "draft",
+      "rightsStatus": "pending",
+      "contentVersion": 1
+    },
+    {
+      "id": "25-34-e28",
+      "slug": "voluntariatul-din-weekend",
+      "ageGroup": "25-34",
+      "lifeStage": "Construcție",
+      "chapterId": "C6",
+      "chapterTitle": "Valori, sens și acțiune",
+      "ordinal": 28,
+      "title": "Voluntariatul din weekend",
+      "context": "Mara vrea să participe la o inițiativă comunitară, dar a promis deja un weekend de odihnă.",
+      "choices": [
+        {
+          "id": "option-1",
+          "text": "Mă înscriu la toate turele",
+          "consequenceId": "consequence-1",
+          "consequence": "Ajută mult, însă își poate depăși energia disponibilă."
+        },
+        {
+          "id": "option-2",
+          "text": "Nu particip niciodată",
+          "consequenceId": "consequence-2",
+          "consequence": "Se odihnește, dar pierde o activitate dorită."
+        },
+        {
+          "id": "option-3",
+          "text": "Ofer o contribuție realistă",
+          "consequenceId": "consequence-3",
+          "consequence": "Poate susține cauza fără o promisiune greu de menținut."
+        }
+      ],
+      "reflection": "Cum se întâlnesc generozitatea și limitele?",
+      "perspective": {
+        "text": "Perspectivă editorială de adăugat și verificat; nu prezenta acest câmp ca aprobat.",
+        "status": "pending_human_review"
+      },
+      "practicalAction": "Alege un mod sustenabil de a contribui.",
+      "completion": "Poți reveni asupra poveștii și explora altă alegere. Nu există un scor al persoanei tale.",
+      "editorialStatus": "draft",
+      "rightsStatus": "pending",
+      "contentVersion": 1
+    },
+    {
+      "id": "25-34-e29",
+      "slug": "decizia-fara-aplauze",
+      "ageGroup": "25-34",
+      "lifeStage": "Construcție",
+      "chapterId": "C6",
+      "chapterTitle": "Valori, sens și acțiune",
+      "ordinal": 29,
+      "title": "Decizia fără aplauze",
+      "context": "Cătălin ia în calcul un drum profesional mai puțin prestigios, dar care îi oferă sens și stabilitate.",
+      "choices": [
+        {
+          "id": "option-1",
+          "text": "Aleg doar titlul impresionant",
+          "consequenceId": "consequence-1",
+          "consequence": "Primește validare, dar ignoră ce contează zilnic."
+        },
+        {
+          "id": "option-2",
+          "text": "Renunț la orice ambiție",
+          "consequenceId": "consequence-2",
+          "consequence": "Evită competiția, dar poate ignora potențialul propriu."
+        },
+        {
+          "id": "option-3",
+          "text": "Compar realitatea celor două opțiuni",
+          "consequenceId": "consequence-3",
+          "consequence": "Poate decide după activități, condiții și valori."
+        }
+      ],
+      "reflection": "Pentru cine vrei să pară reușită alegerea?",
+      "perspective": {
+        "text": "Perspectivă editorială de adăugat și verificat; nu prezenta acest câmp ca aprobat.",
+        "status": "pending_human_review"
+      },
+      "practicalAction": "Descrie o zi obișnuită în fiecare variantă.",
+      "completion": "Poți reveni asupra poveștii și explora altă alegere. Nu există un scor al persoanei tale.",
+      "editorialStatus": "draft",
+      "rightsStatus": "pending",
+      "contentVersion": 1
+    },
+    {
+      "id": "25-34-e30",
+      "slug": "directia-de-peste-cinci-ani",
+      "ageGroup": "25-34",
+      "lifeStage": "Construcție",
+      "chapterId": "C6",
+      "chapterTitle": "Valori, sens și acțiune",
+      "ordinal": 30,
+      "title": "Direcția de peste cinci ani",
+      "context": "Nina observă că planul făcut la facultate nu o mai reprezintă, deși a investit timp în el.",
+      "choices": [
+        {
+          "id": "option-1",
+          "text": "Îl urmez doar fiindcă am investit",
+          "consequenceId": "consequence-1",
+          "consequence": "Păstrează continuitatea, dar ignoră schimbarea propriilor nevoi."
+        },
+        {
+          "id": "option-2",
+          "text": "Îl abandonez fără plan",
+          "consequenceId": "consequence-2",
+          "consequence": "Câștigă libertate, dar poate pierde resurse utile."
+        },
+        {
+          "id": "option-3",
+          "text": "Revizuiesc scopul și pașii",
+          "consequenceId": "consequence-3",
+          "consequence": "Poate păstra ce funcționează și ajusta direcția."
+        }
+      ],
+      "reflection": "Ce merită păstrat dintr-un plan depășit?",
+      "perspective": {
+        "text": "Perspectivă editorială de adăugat și verificat; nu prezenta acest câmp ca aprobat.",
+        "status": "pending_human_review"
+      },
+      "practicalAction": "Rescrie un obiectiv în termenii prezentului.",
+      "completion": "Poți reveni asupra poveștii și explora altă alegere. Nu există un scor al persoanei tale.",
+      "editorialStatus": "draft",
+      "rightsStatus": "pending",
+      "contentVersion": 1
+    },
+    {
+      "id": "35-44-e01",
+      "slug": "stirea-despre-scoala",
+      "ageGroup": "35-44",
+      "lifeStage": "Responsabilitate",
+      "chapterId": "C1",
+      "chapterTitle": "Gândire critică și discernământ",
+      "ordinal": 1,
+      "title": "Știrea despre școală",
+      "context": "În grupul părinților circulă o știre alarmantă despre o schimbare de program. Nu există anunț oficial.",
+      "choices": [
+        {
+          "id": "option-1",
+          "text": "O redistribui urgent",
+          "consequenceId": "consequence-1",
+          "consequence": "Familiile reacționează, dar informația poate fi greșită."
+        },
+        {
+          "id": "option-2",
+          "text": "O declar falsă imediat",
+          "consequenceId": "consequence-2",
+          "consequence": "Poate liniști unii oameni, dar fără dovadă."
+        },
+        {
+          "id": "option-3",
+          "text": "Verific la sursa responsabilă",
+          "consequenceId": "consequence-3",
+          "consequence": "Obține confirmare sau clarifică incertitudinea."
+        }
+      ],
+      "reflection": "De ce panica circulă mai repede decât verificarea?",
+      "perspective": {
+        "text": "Perspectivă editorială de adăugat și verificat; nu prezenta acest câmp ca aprobat.",
+        "status": "pending_human_review"
+      },
+      "practicalAction": "Caută comunicarea oficială înainte de redistribuire.",
+      "completion": "Poți reveni asupra poveștii și explora altă alegere. Nu există un scor al persoanei tale.",
+      "editorialStatus": "draft",
+      "rightsStatus": "pending",
+      "contentVersion": 1
+    },
+    {
+      "id": "35-44-e02",
+      "slug": "recomandarea-medicala-virala",
+      "ageGroup": "35-44",
+      "lifeStage": "Responsabilitate",
+      "chapterId": "C1",
+      "chapterTitle": "Gândire critică și discernământ",
+      "ordinal": 2,
+      "title": "Recomandarea medicală virală",
+      "context": "Un videoclip promite un rezultat miraculos printr-o rutină zilnică. Autorul nu citează studii verificabile.",
+      "choices": [
+        {
+          "id": "option-1",
+          "text": "Încerc fără verificări",
+          "consequenceId": "consequence-1",
+          "consequence": "Poate pierde timp sau întârzia un sfat medical adecvat."
+        },
+        {
+          "id": "option-2",
+          "text": "Ridiculizez persoana care l-a distribuit",
+          "consequenceId": "consequence-2",
+          "consequence": "Îndepărtează conversația de la dovezi."
+        },
+        {
+          "id": "option-3",
+          "text": "Verific dovezile și întreb un profesionist",
+          "consequenceId": "consequence-3",
+          "consequence": "Înțelege ce se știe și ce nu se știe."
+        }
+      ],
+      "reflection": "Cum deosebești o experiență personală de o recomandare sigură?",
+      "perspective": {
+        "text": "Perspectivă editorială de adăugat și verificat; nu prezenta acest câmp ca aprobat.",
+        "status": "pending_human_review"
+      },
+      "practicalAction": "Identifică autorul și dovezile unei afirmații de sănătate.",
+      "completion": "Poți reveni asupra poveștii și explora altă alegere. Nu există un scor al persoanei tale.",
+      "editorialStatus": "draft",
+      "rightsStatus": "pending",
+      "contentVersion": 1
+    },
+    {
+      "id": "35-44-e03",
+      "slug": "raportul-prea-optimist",
+      "ageGroup": "35-44",
+      "lifeStage": "Responsabilitate",
+      "chapterId": "C1",
+      "chapterTitle": "Gândire critică și discernământ",
+      "ordinal": 3,
+      "title": "Raportul prea optimist",
+      "context": "Managerul prezintă echipei o creștere de 40%, dar perioada analizată este de doar două săptămâni.",
+      "choices": [
+        {
+          "id": "option-1",
+          "text": "Promit rezultate similare",
+          "consequenceId": "consequence-1",
+          "consequence": "Pot apărea așteptări nerealiste."
+        },
+        {
+          "id": "option-2",
+          "text": "Respinge orice progres",
+          "consequenceId": "consequence-2",
+          "consequence": "Ignoră un semnal care poate fi real."
+        },
+        {
+          "id": "option-3",
+          "text": "Cer seria completă și baza de comparație",
+          "consequenceId": "consequence-3",
+          "consequence": "Poate evalua dacă tendința persistă."
+        }
+      ],
+      "reflection": "Ce nu spune un procent izolat?",
+      "perspective": {
+        "text": "Perspectivă editorială de adăugat și verificat; nu prezenta acest câmp ca aprobat.",
+        "status": "pending_human_review"
+      },
+      "practicalAction": "Cere perioada și valoarea de bază a unui indicator.",
+      "completion": "Poți reveni asupra poveștii și explora altă alegere. Nu există un scor al persoanei tale.",
+      "editorialStatus": "draft",
+      "rightsStatus": "pending",
+      "contentVersion": 1
+    },
+    {
+      "id": "35-44-e04",
+      "slug": "doua-opinii-despre-educatie",
+      "ageGroup": "35-44",
+      "lifeStage": "Responsabilitate",
+      "chapterId": "C1",
+      "chapterTitle": "Gândire critică și discernământ",
+      "ordinal": 4,
+      "title": "Două opinii despre educație",
+      "context": "Partenerii citesc sfaturi contradictorii despre o regulă din familie. Fiecare a găsit un specialist diferit.",
+      "choices": [
+        {
+          "id": "option-1",
+          "text": "Impune unul dintre sfaturi",
+          "consequenceId": "consequence-1",
+          "consequence": "Oferă claritate rapidă, dar nu neapărat potrivire."
+        },
+        {
+          "id": "option-2",
+          "text": "Renunță la orice regulă",
+          "consequenceId": "consequence-2",
+          "consequence": "Evită conflictul, însă familia rămâne fără acord comun."
+        },
+        {
+          "id": "option-3",
+          "text": "Compară recomandările și contextul",
+          "consequenceId": "consequence-3",
+          "consequence": "Pot alege o regulă revizuibilă."
+        }
+      ],
+      "reflection": "Care este diferența dintre autoritate și argument?",
+      "perspective": {
+        "text": "Perspectivă editorială de adăugat și verificat; nu prezenta acest câmp ca aprobat.",
+        "status": "pending_human_review"
+      },
+      "practicalAction": "Notați ce presupune fiecare recomandare.",
+      "completion": "Poți reveni asupra poveștii și explora altă alegere. Nu există un scor al persoanei tale.",
+      "editorialStatus": "draft",
+      "rightsStatus": "pending",
+      "contentVersion": 1
+    },
+    {
+      "id": "35-44-e05",
+      "slug": "zvonul-despre-coleg",
+      "ageGroup": "35-44",
+      "lifeStage": "Responsabilitate",
+      "chapterId": "C1",
+      "chapterTitle": "Gândire critică și discernământ",
+      "ordinal": 5,
+      "title": "Zvonul despre coleg",
+      "context": "În birou se spune că o colegă va fi concediată. Nimeni nu cunoaște sursa.",
+      "choices": [
+        {
+          "id": "option-1",
+          "text": "Avertizez toată echipa",
+          "consequenceId": "consequence-1",
+          "consequence": "Poate produce panică și afecta reputații."
+        },
+        {
+          "id": "option-2",
+          "text": "Mă prefac că nu există",
+          "consequenceId": "consequence-2",
+          "consequence": "Evită zvonul, dar persoana poate rămâne fără sprijin."
+        },
+        {
+          "id": "option-3",
+          "text": "Refuz distribuirea și caut canalul potrivit",
+          "consequenceId": "consequence-3",
+          "consequence": "Protejează confidențialitatea fără a inventa certitudini."
+        }
+      ],
+      "reflection": "Ce responsabilitate ai față de o informație neconfirmată?",
+      "perspective": {
+        "text": "Perspectivă editorială de adăugat și verificat; nu prezenta acest câmp ca aprobat.",
+        "status": "pending_human_review"
+      },
+      "practicalAction": "Nu retransmite un zvon despre o persoană.",
+      "completion": "Poți reveni asupra poveștii și explora altă alegere. Nu există un scor al persoanei tale.",
+      "editorialStatus": "draft",
+      "rightsStatus": "pending",
+      "contentVersion": 1
+    },
+    {
+      "id": "35-44-e06",
+      "slug": "ziua-cu-trei-urgente",
+      "ageGroup": "35-44",
+      "lifeStage": "Responsabilitate",
+      "chapterId": "C2",
+      "chapterTitle": "Decizii și priorități",
+      "ordinal": 6,
+      "title": "Ziua cu trei urgențe",
+      "context": "Cristina are un termen la serviciu, o problemă familială și o programare personală amânată deja.",
+      "choices": [
+        {
+          "id": "option-1",
+          "text": "Le fac singură pe toate",
+          "consequenceId": "consequence-1",
+          "consequence": "Unele se rezolvă, dar oboseala și greșelile cresc."
+        },
+        {
+          "id": "option-2",
+          "text": "Renunț automat la timpul meu",
+          "consequenceId": "consequence-2",
+          "consequence": "Scade presiunea pe termen scurt, dar nevoile proprii rămân ignorate."
+        },
+        {
+          "id": "option-3",
+          "text": "Prioritizez și renegociez",
+          "consequenceId": "consequence-3",
+          "consequence": "Poate distribui sarcini și reduce blocajele."
+        }
+      ],
+      "reflection": "Cine decide ce este urgent pentru tine?",
+      "perspective": {
+        "text": "Perspectivă editorială de adăugat și verificat; nu prezenta acest câmp ca aprobat.",
+        "status": "pending_human_review"
+      },
+      "practicalAction": "Reevaluează o promisiune înainte de a o accepta.",
+      "completion": "Poți reveni asupra poveștii și explora altă alegere. Nu există un scor al persoanei tale.",
+      "editorialStatus": "draft",
+      "rightsStatus": "pending",
+      "contentVersion": 1
+    },
+    {
+      "id": "35-44-e07",
+      "slug": "bugetul-cu-doua-prioritati",
+      "ageGroup": "35-44",
+      "lifeStage": "Responsabilitate",
+      "chapterId": "C2",
+      "chapterTitle": "Decizii și priorități",
+      "ordinal": 7,
+      "title": "Bugetul cu două priorități",
+      "context": "Într-o gospodărie, unul vrea reparația locuinței, celălalt o vacanță după un an dificil.",
+      "choices": [
+        {
+          "id": "option-1",
+          "text": "Decid singur",
+          "consequenceId": "consequence-1",
+          "consequence": "Soluția este rapidă, dar poate eroda încrederea."
+        },
+        {
+          "id": "option-2",
+          "text": "Amânăm orice cheltuială",
+          "consequenceId": "consequence-2",
+          "consequence": "Evită disputa, dar nevoile rămân."
+        },
+        {
+          "id": "option-3",
+          "text": "Facem împreună un buget și praguri",
+          "consequenceId": "consequence-3",
+          "consequence": "Pot găsi un compromis sau amânare motivată."
+        }
+      ],
+      "reflection": "Cum transformi o preferință într-o negociere clară?",
+      "perspective": {
+        "text": "Perspectivă editorială de adăugat și verificat; nu prezenta acest câmp ca aprobat.",
+        "status": "pending_human_review"
+      },
+      "practicalAction": "Notați separat nevoia, costul și termenul.",
+      "completion": "Poți reveni asupra poveștii și explora altă alegere. Nu există un scor al persoanei tale.",
+      "editorialStatus": "draft",
+      "rightsStatus": "pending",
+      "contentVersion": 1
+    },
+    {
+      "id": "35-44-e08",
+      "slug": "promovarea-cu-deplasari",
+      "ageGroup": "35-44",
+      "lifeStage": "Responsabilitate",
+      "chapterId": "C2",
+      "chapterTitle": "Decizii și priorități",
+      "ordinal": 8,
+      "title": "Promovarea cu deplasări",
+      "context": "Mihai primește o promovare care presupune deplasări dese. Are și responsabilități personale importante.",
+      "choices": [
+        {
+          "id": "option-1",
+          "text": "Accept imediat",
+          "consequenceId": "consequence-1",
+          "consequence": "Avansează, dar absențele îi modifică rutina."
+        },
+        {
+          "id": "option-2",
+          "text": "Refuz categoric",
+          "consequenceId": "consequence-2",
+          "consequence": "Păstrează programul, dar nu explorează flexibilitatea."
+        },
+        {
+          "id": "option-3",
+          "text": "Negociez deplasările și sprijinul",
+          "consequenceId": "consequence-3",
+          "consequence": "Poate afla costurile reale înainte să aleagă."
+        }
+      ],
+      "reflection": "Ce preț are o responsabilitate profesională nouă?",
+      "perspective": {
+        "text": "Perspectivă editorială de adăugat și verificat; nu prezenta acest câmp ca aprobat.",
+        "status": "pending_human_review"
+      },
+      "practicalAction": "Cere un calendar estimativ înainte de a decide.",
+      "completion": "Poți reveni asupra poveștii și explora altă alegere. Nu există un scor al persoanei tale.",
+      "editorialStatus": "draft",
+      "rightsStatus": "pending",
+      "contentVersion": 1
+    },
+    {
+      "id": "35-44-e09",
+      "slug": "casa-mai-mare",
+      "ageGroup": "35-44",
+      "lifeStage": "Responsabilitate",
+      "chapterId": "C2",
+      "chapterTitle": "Decizii și priorități",
+      "ordinal": 9,
+      "title": "Casa mai mare",
+      "context": "Familia ia în calcul o locuință cu rată substanțial mai mare. Veniturile sunt stabile, dar nu garantate.",
+      "choices": [
+        {
+          "id": "option-1",
+          "text": "Semnez fără simulare",
+          "consequenceId": "consequence-1",
+          "consequence": "Câștigă spațiu, dar devine vulnerabilă la imprevizibil."
+        },
+        {
+          "id": "option-2",
+          "text": "Renunț la orice schimbare",
+          "consequenceId": "consequence-2",
+          "consequence": "Protejează bugetul, dar ignoră un beneficiu real."
+        },
+        {
+          "id": "option-3",
+          "text": "Testez scenarii de buget",
+          "consequenceId": "consequence-3",
+          "consequence": "Evaluează costurile și o rezervă realistă."
+        }
+      ],
+      "reflection": "Ce presupuneri despre viitor ai inclus în calcul?",
+      "perspective": {
+        "text": "Perspectivă editorială de adăugat și verificat; nu prezenta acest câmp ca aprobat.",
+        "status": "pending_human_review"
+      },
+      "practicalAction": "Simulează o lună cu venit mai mic.",
+      "completion": "Poți reveni asupra poveștii și explora altă alegere. Nu există un scor al persoanei tale.",
+      "editorialStatus": "draft",
+      "rightsStatus": "pending",
+      "contentVersion": 1
+    },
+    {
+      "id": "35-44-e10",
+      "slug": "responsabilitatea-invizibila",
+      "ageGroup": "35-44",
+      "lifeStage": "Responsabilitate",
+      "chapterId": "C2",
+      "chapterTitle": "Decizii și priorități",
+      "ordinal": 10,
+      "title": "Responsabilitatea invizibilă",
+      "context": "Laura organizează aproape singură toate detaliile gospodăriei, iar ceilalți observă numai sarcinile vizibile.",
+      "choices": [
+        {
+          "id": "option-1",
+          "text": "Continui fără să spun nimic",
+          "consequenceId": "consequence-1",
+          "consequence": "Lucrurile merg, dar oboseala se acumulează."
+        },
+        {
+          "id": "option-2",
+          "text": "Las totul neanunțat",
+          "consequenceId": "consequence-2",
+          "consequence": "Arată problema, dar creează haos și tensiune."
+        },
+        {
+          "id": "option-3",
+          "text": "Fac vizibilă lista și discut împărțirea",
+          "consequenceId": "consequence-3",
+          "consequence": "Poate apărea o distribuție mai echilibrată."
+        }
+      ],
+      "reflection": "Ce muncă nu este observată până lipsește?",
+      "perspective": {
+        "text": "Perspectivă editorială de adăugat și verificat; nu prezenta acest câmp ca aprobat.",
+        "status": "pending_human_review"
+      },
+      "practicalAction": "Notați toate sarcinile recurente ale casei.",
+      "completion": "Poți reveni asupra poveștii și explora altă alegere. Nu există un scor al persoanei tale.",
+      "editorialStatus": "draft",
+      "rightsStatus": "pending",
+      "contentVersion": 1
+    },
+    {
+      "id": "35-44-e11",
+      "slug": "raspunsul-aspru",
+      "ageGroup": "35-44",
+      "lifeStage": "Responsabilitate",
+      "chapterId": "C3",
+      "chapterTitle": "Emoții și autoreglare",
+      "ordinal": 11,
+      "title": "Răspunsul aspru",
+      "context": "După o zi lungă, Adrian răspunde iritat unei persoane apropiate care îi cere ajutor.",
+      "choices": [
+        {
+          "id": "option-1",
+          "text": "Îmi justific tonul prin oboseală",
+          "consequenceId": "consequence-1",
+          "consequence": "Explică contextul, dar nu repară efectul."
+        },
+        {
+          "id": "option-2",
+          "text": "Mă izolez și nu spun nimic",
+          "consequenceId": "consequence-2",
+          "consequence": "Evită alt conflict, dar lasă neclarificată reacția."
+        },
+        {
+          "id": "option-3",
+          "text": "Recunosc tonul și spun de ce am nevoie",
+          "consequenceId": "consequence-3",
+          "consequence": "Poate repara relația fără să nege oboseala."
+        }
+      ],
+      "reflection": "Cum separi emoția legitimă de comportamentul ales?",
+      "perspective": {
+        "text": "Perspectivă editorială de adăugat și verificat; nu prezenta acest câmp ca aprobat.",
+        "status": "pending_human_review"
+      },
+      "practicalAction": "Pregătește o formulare de reparare.",
+      "completion": "Poți reveni asupra poveștii și explora altă alegere. Nu există un scor al persoanei tale.",
+      "editorialStatus": "draft",
+      "rightsStatus": "pending",
+      "contentVersion": 1
+    },
+    {
+      "id": "35-44-e12",
+      "slug": "cand-nu-poti-fi-peste-tot",
+      "ageGroup": "35-44",
+      "lifeStage": "Responsabilitate",
+      "chapterId": "C3",
+      "chapterTitle": "Emoții și autoreglare",
+      "ordinal": 12,
+      "title": "Când nu poți fi peste tot",
+      "context": "Oana ratează un eveniment important pentru o persoană dragă, din cauza unei obligații de serviciu.",
+      "choices": [
+        {
+          "id": "option-1",
+          "text": "Promit imposibilul data viitoare",
+          "consequenceId": "consequence-1",
+          "consequence": "Calmează vina, dar creează altă presiune."
+        },
+        {
+          "id": "option-2",
+          "text": "Mă consider un om rău",
+          "consequenceId": "consequence-2",
+          "consequence": "Transformă o alegere dificilă într-o etichetă."
+        },
+        {
+          "id": "option-3",
+          "text": "Discut impactul și un plan realist",
+          "consequenceId": "consequence-3",
+          "consequence": "Poate reconstrui încrederea prin fapte."
+        }
+      ],
+      "reflection": "Ce poți repara și ce nu poți controla?",
+      "perspective": {
+        "text": "Perspectivă editorială de adăugat și verificat; nu prezenta acest câmp ca aprobat.",
+        "status": "pending_human_review"
+      },
+      "practicalAction": "Propune un gest concret, nu o promisiune absolută.",
+      "completion": "Poți reveni asupra poveștii și explora altă alegere. Nu există un scor al persoanei tale.",
+      "editorialStatus": "draft",
+      "rightsStatus": "pending",
+      "contentVersion": 1
+    },
+    {
+      "id": "35-44-e13",
+      "slug": "critica-primita-acasa",
+      "ageGroup": "35-44",
+      "lifeStage": "Responsabilitate",
+      "chapterId": "C3",
+      "chapterTitle": "Emoții și autoreglare",
+      "ordinal": 13,
+      "title": "Critica primită acasă",
+      "context": "Partenerul îi spune lui Dan că pare absent în conversații. El se simte atacat.",
+      "choices": [
+        {
+          "id": "option-1",
+          "text": "Contraatac imediat",
+          "consequenceId": "consequence-1",
+          "consequence": "Discuția se mută de la problemă la vină."
+        },
+        {
+          "id": "option-2",
+          "text": "Tac zile întregi",
+          "consequenceId": "consequence-2",
+          "consequence": "Tensiunea persistă și mesajul rămâne neclar."
+        },
+        {
+          "id": "option-3",
+          "text": "Cer un exemplu și ascult",
+          "consequenceId": "consequence-3",
+          "consequence": "Poate înțelege comportamentul fără să fie de acord cu orice."
+        }
+      ],
+      "reflection": "Ce diferență există între critică și informație utilă?",
+      "perspective": {
+        "text": "Perspectivă editorială de adăugat și verificat; nu prezenta acest câmp ca aprobat.",
+        "status": "pending_human_review"
+      },
+      "practicalAction": "Cere un exemplu concret într-o discuție dificilă.",
+      "completion": "Poți reveni asupra poveștii și explora altă alegere. Nu există un scor al persoanei tale.",
+      "editorialStatus": "draft",
+      "rightsStatus": "pending",
+      "contentVersion": 1
+    },
+    {
+      "id": "35-44-e14",
+      "slug": "weekendul-fara-odihna",
+      "ageGroup": "35-44",
+      "lifeStage": "Responsabilitate",
+      "chapterId": "C3",
+      "chapterTitle": "Emoții și autoreglare",
+      "ordinal": 14,
+      "title": "Weekendul fără odihnă",
+      "context": "Calendarul familiei este plin, iar Simona nu a avut o zi liberă de săptămâni.",
+      "choices": [
+        {
+          "id": "option-1",
+          "text": "Adaug încă o activitate",
+          "consequenceId": "consequence-1",
+          "consequence": "Relațiile primesc timp, dar energia scade."
+        },
+        {
+          "id": "option-2",
+          "text": "Anulez tot brusc",
+          "consequenceId": "consequence-2",
+          "consequence": "Obține liniște, însă apar dezamăgiri evitabile."
+        },
+        {
+          "id": "option-3",
+          "text": "Aleg ce contează și las spațiu liber",
+          "consequenceId": "consequence-3",
+          "consequence": "Reduce suprasolicitarea prin planificare realistă."
+        }
+      ],
+      "reflection": "De ce timpul liber ajunge să necesite apărare?",
+      "perspective": {
+        "text": "Perspectivă editorială de adăugat și verificat; nu prezenta acest câmp ca aprobat.",
+        "status": "pending_human_review"
+      },
+      "practicalAction": "Blochează un interval fără obligații.",
+      "completion": "Poți reveni asupra poveștii și explora altă alegere. Nu există un scor al persoanei tale.",
+      "editorialStatus": "draft",
+      "rightsStatus": "pending",
+      "contentVersion": 1
+    },
+    {
+      "id": "35-44-e15",
+      "slug": "frica-de-schimbare",
+      "ageGroup": "35-44",
+      "lifeStage": "Responsabilitate",
+      "chapterId": "C3",
+      "chapterTitle": "Emoții și autoreglare",
+      "ordinal": 15,
+      "title": "Frica de schimbare",
+      "context": "După zece ani într-un rol, Marius simte că nu mai învață, dar îi este teamă să exploreze altceva.",
+      "choices": [
+        {
+          "id": "option-1",
+          "text": "Plec fără plan",
+          "consequenceId": "consequence-1",
+          "consequence": "Schimbă contextul rapid, dar expunerea financiară crește."
+        },
+        {
+          "id": "option-2",
+          "text": "Rămân indiferent",
+          "consequenceId": "consequence-2",
+          "consequence": "Păstrează stabilitatea, dar nemulțumirea persistă."
+        },
+        {
+          "id": "option-3",
+          "text": "Explorez discret opțiuni",
+          "consequenceId": "consequence-3",
+          "consequence": "Poate descoperi oportunități sau valoarea rolului actual."
+        }
+      ],
+      "reflection": "Ce informație ți-ar reduce incertitudinea?",
+      "perspective": {
+        "text": "Perspectivă editorială de adăugat și verificat; nu prezenta acest câmp ca aprobat.",
+        "status": "pending_human_review"
+      },
+      "practicalAction": "Vorbește cu cineva dintr-un domeniu de interes.",
+      "completion": "Poți reveni asupra poveștii și explora altă alegere. Nu există un scor al persoanei tale.",
+      "editorialStatus": "draft",
+      "rightsStatus": "pending",
+      "contentVersion": 1
+    },
+    {
+      "id": "35-44-e16",
+      "slug": "discutia-despre-ecrane",
+      "ageGroup": "35-44",
+      "lifeStage": "Responsabilitate",
+      "chapterId": "C4",
+      "chapterTitle": "Relații și comunicare",
+      "ordinal": 16,
+      "title": "Discuția despre ecrane",
+      "context": "Doi adulți au opinii diferite despre timpul petrecut pe dispozitive în familie.",
+      "choices": [
+        {
+          "id": "option-1",
+          "text": "Impune unul regula",
+          "consequenceId": "consequence-1",
+          "consequence": "Consecvența poate apărea, dar colaborarea scade."
+        },
+        {
+          "id": "option-2",
+          "text": "Lasă fiecare zi fără acord",
+          "consequenceId": "consequence-2",
+          "consequence": "Se evită disputa, însă apar mesaje contradictorii."
+        },
+        {
+          "id": "option-3",
+          "text": "Stabilesc scopuri și revizuim regula",
+          "consequenceId": "consequence-3",
+          "consequence": "Pot crea o rutină flexibilă adaptată nevoilor reale."
+        }
+      ],
+      "reflection": "Ce vrem să protejăm prin această regulă?",
+      "perspective": {
+        "text": "Perspectivă editorială de adăugat și verificat; nu prezenta acest câmp ca aprobat.",
+        "status": "pending_human_review"
+      },
+      "practicalAction": "Discutați despre o activitate alternativă, nu doar limite.",
+      "completion": "Poți reveni asupra poveștii și explora altă alegere. Nu există un scor al persoanei tale.",
+      "editorialStatus": "draft",
+      "rightsStatus": "pending",
+      "contentVersion": 1
+    },
+    {
+      "id": "35-44-e17",
+      "slug": "ruda-care-intervine",
+      "ageGroup": "35-44",
+      "lifeStage": "Responsabilitate",
+      "chapterId": "C4",
+      "chapterTitle": "Relații și comunicare",
+      "ordinal": 17,
+      "title": "Ruda care intervine",
+      "context": "O rudă bine intenționată oferă frecvent sfaturi necerute despre alegerile familiei.",
+      "choices": [
+        {
+          "id": "option-1",
+          "text": "O cert în fața tuturor",
+          "consequenceId": "consequence-1",
+          "consequence": "Setează o limită, dar rănește relația."
+        },
+        {
+          "id": "option-2",
+          "text": "Accept orice sfat",
+          "consequenceId": "consequence-2",
+          "consequence": "Evită conflictul, dar pierde autonomia."
+        },
+        {
+          "id": "option-3",
+          "text": "Mulțumesc și delimitez decizia",
+          "consequenceId": "consequence-3",
+          "consequence": "Poate păstra respectul și claritatea."
+        }
+      ],
+      "reflection": "Cum poți fi ferm fără să fii ostil?",
+      "perspective": {
+        "text": "Perspectivă editorială de adăugat și verificat; nu prezenta acest câmp ca aprobat.",
+        "status": "pending_human_review"
+      },
+      "practicalAction": "Exersează o limită exprimată calm.",
+      "completion": "Poți reveni asupra poveștii și explora altă alegere. Nu există un scor al persoanei tale.",
+      "editorialStatus": "draft",
+      "rightsStatus": "pending",
+      "contentVersion": 1
+    },
+    {
+      "id": "35-44-e18",
+      "slug": "prietenia-amanata",
+      "ageGroup": "35-44",
+      "lifeStage": "Responsabilitate",
+      "chapterId": "C4",
+      "chapterTitle": "Relații și comunicare",
+      "ordinal": 18,
+      "title": "Prietenia amânată",
+      "context": "Între serviciu și familie, Corina își amână mereu întâlnirile cu o prietenă apropiată.",
+      "choices": [
+        {
+          "id": "option-1",
+          "text": "Promit întâlniri săptămânale nerealiste",
+          "consequenceId": "consequence-1",
+          "consequence": "Intenția e bună, dar dezamăgirile continuă."
+        },
+        {
+          "id": "option-2",
+          "text": "Aștept să am timp liber spontan",
+          "consequenceId": "consequence-2",
+          "consequence": "Relația se poate răci."
+        },
+        {
+          "id": "option-3",
+          "text": "Propun un ritm fezabil",
+          "consequenceId": "consequence-3",
+          "consequence": "Legătura poate fi menținută fără presiune."
+        }
+      ],
+      "reflection": "Care relații au nevoie de planificare conștientă?",
+      "perspective": {
+        "text": "Perspectivă editorială de adăugat și verificat; nu prezenta acest câmp ca aprobat.",
+        "status": "pending_human_review"
+      },
+      "practicalAction": "Trimite o invitație cu o dată concretă.",
+      "completion": "Poți reveni asupra poveștii și explora altă alegere. Nu există un scor al persoanei tale.",
+      "editorialStatus": "draft",
+      "rightsStatus": "pending",
+      "contentVersion": 1
+    },
+    {
+      "id": "35-44-e19",
+      "slug": "discutia-cu-adolescentul",
+      "ageGroup": "35-44",
+      "lifeStage": "Responsabilitate",
+      "chapterId": "C4",
+      "chapterTitle": "Relații și comunicare",
+      "ordinal": 19,
+      "title": "Discuția cu adolescentul",
+      "context": "Un adolescent din familie ia o decizie pe care părintele o consideră imprudentă, dar care nu implică un risc imediat.",
+      "choices": [
+        {
+          "id": "option-1",
+          "text": "Interzic fără explicații",
+          "consequenceId": "consequence-1",
+          "consequence": "Obține conformare aparentă, dar reduce dialogul."
+        },
+        {
+          "id": "option-2",
+          "text": "Mă retrag complet",
+          "consequenceId": "consequence-2",
+          "consequence": "Evită conflictul, dar pierde șansa de sprijin."
+        },
+        {
+          "id": "option-3",
+          "text": "Întreb ce a analizat și explic limitele",
+          "consequenceId": "consequence-3",
+          "consequence": "Poate înțelege perspectiva și păstra reguli justificate."
+        }
+      ],
+      "reflection": "Când sprijinul devine control?",
+      "perspective": {
+        "text": "Perspectivă editorială de adăugat și verificat; nu prezenta acest câmp ca aprobat.",
+        "status": "pending_human_review"
+      },
+      "practicalAction": "Începe conversația cu o întrebare deschisă.",
+      "completion": "Poți reveni asupra poveștii și explora altă alegere. Nu există un scor al persoanei tale.",
+      "editorialStatus": "draft",
+      "rightsStatus": "pending",
+      "contentVersion": 1
+    },
+    {
+      "id": "35-44-e20",
+      "slug": "colegii-din-doua-echipe",
+      "ageGroup": "35-44",
+      "lifeStage": "Responsabilitate",
+      "chapterId": "C4",
+      "chapterTitle": "Relații și comunicare",
+      "ordinal": 20,
+      "title": "Colegii din două echipe",
+      "context": "Roxana primește cereri incompatibile de la doi coordonatori și nu știe pe care să o prioritizeze.",
+      "choices": [
+        {
+          "id": "option-1",
+          "text": "Promit ambilor același termen",
+          "consequenceId": "consequence-1",
+          "consequence": "Pare cooperantă, dar riscă să dezamăgească."
+        },
+        {
+          "id": "option-2",
+          "text": "Aleg arbitrar",
+          "consequenceId": "consequence-2",
+          "consequence": "Rezolvă o solicitare, însă tensionează colaborarea."
+        },
+        {
+          "id": "option-3",
+          "text": "Cer prioritizare transparentă",
+          "consequenceId": "consequence-3",
+          "consequence": "Face vizibil conflictul de resurse."
+        }
+      ],
+      "reflection": "Cine poate decide ordinea solicitărilor?",
+      "perspective": {
+        "text": "Perspectivă editorială de adăugat și verificat; nu prezenta acest câmp ca aprobat.",
+        "status": "pending_human_review"
+      },
+      "practicalAction": "Trimite un mesaj cu capacitatea reală disponibilă.",
+      "completion": "Poți reveni asupra poveștii și explora altă alegere. Nu există un scor al persoanei tale.",
+      "editorialStatus": "draft",
+      "rightsStatus": "pending",
+      "contentVersion": 1
+    },
+    {
+      "id": "35-44-e21",
+      "slug": "ritualul-de-dimineata",
+      "ageGroup": "35-44",
+      "lifeStage": "Responsabilitate",
+      "chapterId": "C5",
+      "chapterTitle": "Disciplină și adaptare",
+      "ordinal": 21,
+      "title": "Ritualul de dimineață",
+      "context": "Alina păstrează o rutină ideală cu multe etape, dar o abandonează când apare o urgență.",
+      "choices": [
+        {
+          "id": "option-1",
+          "text": "Mă învinovățesc",
+          "consequenceId": "consequence-1",
+          "consequence": "Transformă flexibilitatea necesară în eșec personal."
+        },
+        {
+          "id": "option-2",
+          "text": "Renunț la orice rutină",
+          "consequenceId": "consequence-2",
+          "consequence": "Pierde reperele utile."
+        },
+        {
+          "id": "option-3",
+          "text": "Construiesc o variantă scurtă",
+          "consequenceId": "consequence-3",
+          "consequence": "Poate continua esențialul în zilele aglomerate."
+        }
+      ],
+      "reflection": "Care element al rutinei oferă cel mai mult?",
+      "perspective": {
+        "text": "Perspectivă editorială de adăugat și verificat; nu prezenta acest câmp ca aprobat.",
+        "status": "pending_human_review"
+      },
+      "practicalAction": "Creează versiunea de cinci minute a unei rutine.",
+      "completion": "Poți reveni asupra poveștii și explora altă alegere. Nu există un scor al persoanei tale.",
+      "editorialStatus": "draft",
+      "rightsStatus": "pending",
+      "contentVersion": 1
+    },
+    {
+      "id": "35-44-e22",
+      "slug": "lista-infinita",
+      "ageGroup": "35-44",
+      "lifeStage": "Responsabilitate",
+      "chapterId": "C5",
+      "chapterTitle": "Disciplină și adaptare",
+      "ordinal": 22,
+      "title": "Lista infinită",
+      "context": "Victor adaugă mereu sarcini într-o aplicație, dar nu termină aproape niciodată lista.",
+      "choices": [
+        {
+          "id": "option-1",
+          "text": "Lucrez fără pauză",
+          "consequenceId": "consequence-1",
+          "consequence": "Bifează mai mult, dar obosește."
+        },
+        {
+          "id": "option-2",
+          "text": "Nu mai folosesc nicio listă",
+          "consequenceId": "consequence-2",
+          "consequence": "Elimină presiunea, dar pierde vizibilitatea."
+        },
+        {
+          "id": "option-3",
+          "text": "Aleg trei priorități și limitez intrările",
+          "consequenceId": "consequence-3",
+          "consequence": "Poate progresa fără să confunde volumul cu valoarea."
+        }
+      ],
+      "reflection": "Cine stabilește cât înseamnă suficient?",
+      "perspective": {
+        "text": "Perspectivă editorială de adăugat și verificat; nu prezenta acest câmp ca aprobat.",
+        "status": "pending_human_review"
+      },
+      "practicalAction": "Identifică trei lucruri importante pentru mâine.",
+      "completion": "Poți reveni asupra poveștii și explora altă alegere. Nu există un scor al persoanei tale.",
+      "editorialStatus": "draft",
+      "rightsStatus": "pending",
+      "contentVersion": 1
+    },
+    {
+      "id": "35-44-e23",
+      "slug": "invatarea-intre-responsabilitati",
+      "ageGroup": "35-44",
+      "lifeStage": "Responsabilitate",
+      "chapterId": "C5",
+      "chapterTitle": "Disciplină și adaptare",
+      "ordinal": 23,
+      "title": "Învățarea între responsabilități",
+      "context": "Nicoleta vrea să studieze pentru o certificare, dar nu poate păstra sesiuni lungi.",
+      "choices": [
+        {
+          "id": "option-1",
+          "text": "Aștept vacanța",
+          "consequenceId": "consequence-1",
+          "consequence": "Poate avea atunci timp, dar obiectivul rămâne amânat."
+        },
+        {
+          "id": "option-2",
+          "text": "Îmi impun ore zilnice imposibile",
+          "consequenceId": "consequence-2",
+          "consequence": "Începe intens, apoi renunță."
+        },
+        {
+          "id": "option-3",
+          "text": "Fragmentăm studiul în sesiuni realiste",
+          "consequenceId": "consequence-3",
+          "consequence": "Poate construi progres săptămânal."
+        }
+      ],
+      "reflection": "Ce ritm poți susține în viața reală?",
+      "perspective": {
+        "text": "Perspectivă editorială de adăugat și verificat; nu prezenta acest câmp ca aprobat.",
+        "status": "pending_human_review"
+      },
+      "practicalAction": "Planifică două sesiuni scurte.",
+      "completion": "Poți reveni asupra poveștii și explora altă alegere. Nu există un scor al persoanei tale.",
+      "editorialStatus": "draft",
+      "rightsStatus": "pending",
+      "contentVersion": 1
+    },
+    {
+      "id": "35-44-e24",
+      "slug": "obiceiul-de-a-spune-da",
+      "ageGroup": "35-44",
+      "lifeStage": "Responsabilitate",
+      "chapterId": "C5",
+      "chapterTitle": "Disciplină și adaptare",
+      "ordinal": 24,
+      "title": "Obiceiul de a spune da",
+      "context": "Paul acceptă frecvent sarcini suplimentare deoarece îi este teamă să dezamăgească.",
+      "choices": [
+        {
+          "id": "option-1",
+          "text": "Accept și acum",
+          "consequenceId": "consequence-1",
+          "consequence": "Primește apreciere, dar suprasolicitarea crește."
+        },
+        {
+          "id": "option-2",
+          "text": "Refuz agresiv",
+          "consequenceId": "consequence-2",
+          "consequence": "Își apără timpul, dar creează conflict inutil."
+        },
+        {
+          "id": "option-3",
+          "text": "Verific capacitatea înainte de a răspunde",
+          "consequenceId": "consequence-3",
+          "consequence": "Poate decide cu mai multă claritate."
+        }
+      ],
+      "reflection": "De ce confunzi uneori disponibilitatea cu valoarea personală?",
+      "perspective": {
+        "text": "Perspectivă editorială de adăugat și verificat; nu prezenta acest câmp ca aprobat.",
+        "status": "pending_human_review"
+      },
+      "practicalAction": "Folosește formula „revin după ce verific programul”.",
+      "completion": "Poți reveni asupra poveștii și explora altă alegere. Nu există un scor al persoanei tale.",
+      "editorialStatus": "draft",
+      "rightsStatus": "pending",
+      "contentVersion": 1
+    },
+    {
+      "id": "35-44-e25",
+      "slug": "planul-familiei-se-schimba",
+      "ageGroup": "35-44",
+      "lifeStage": "Responsabilitate",
+      "chapterId": "C5",
+      "chapterTitle": "Disciplină și adaptare",
+      "ordinal": 25,
+      "title": "Planul familiei se schimbă",
+      "context": "Un eveniment neașteptat anulează o excursie pregătită de luni de zile. Toți sunt dezamăgiți.",
+      "choices": [
+        {
+          "id": "option-1",
+          "text": "Caut un vinovat",
+          "consequenceId": "consequence-1",
+          "consequence": "Exprimă frustrarea, dar înrăutățește atmosfera."
+        },
+        {
+          "id": "option-2",
+          "text": "Pretind că nu contează",
+          "consequenceId": "consequence-2",
+          "consequence": "Evită discuția, însă emoțiile rămân."
+        },
+        {
+          "id": "option-3",
+          "text": "Recunoaștem dezamăgirea și alegem o alternativă",
+          "consequenceId": "consequence-3",
+          "consequence": "Păstrează coeziunea fără să nege pierderea."
+        }
+      ],
+      "reflection": "Cum accepți o schimbare fără să minimizezi emoțiile?",
+      "perspective": {
+        "text": "Perspectivă editorială de adăugat și verificat; nu prezenta acest câmp ca aprobat.",
+        "status": "pending_human_review"
+      },
+      "practicalAction": "Propune un mic ritual de replanificare.",
+      "completion": "Poți reveni asupra poveștii și explora altă alegere. Nu există un scor al persoanei tale.",
+      "editorialStatus": "draft",
+      "rightsStatus": "pending",
+      "contentVersion": 1
+    },
+    {
+      "id": "35-44-e26",
+      "slug": "rolul-dincolo-de-serviciu",
+      "ageGroup": "35-44",
+      "lifeStage": "Responsabilitate",
+      "chapterId": "C6",
+      "chapterTitle": "Valori, sens și acțiune",
+      "ordinal": 26,
+      "title": "Rolul dincolo de serviciu",
+      "context": "După o reorganizare, funcția lui Cătălin nu mai are același prestigiu. Se simte diminuat.",
+      "choices": [
+        {
+          "id": "option-1",
+          "text": "Demonstrez cu orice preț",
+          "consequenceId": "consequence-1",
+          "consequence": "Se suprasolicită pentru recunoaștere."
+        },
+        {
+          "id": "option-2",
+          "text": "Renunț să mă implic",
+          "consequenceId": "consequence-2",
+          "consequence": "Se protejează, dar pierde satisfacție profesională."
+        },
+        {
+          "id": "option-3",
+          "text": "Îmi clarific contribuția reală",
+          "consequenceId": "consequence-3",
+          "consequence": "Poate găsi sens și fără vechiul titlu."
+        }
+      ],
+      "reflection": "Ce parte din identitatea ta depinde de funcție?",
+      "perspective": {
+        "text": "Perspectivă editorială de adăugat și verificat; nu prezenta acest câmp ca aprobat.",
+        "status": "pending_human_review"
+      },
+      "practicalAction": "Scrie trei contribuții dincolo de titulatură.",
+      "completion": "Poți reveni asupra poveștii și explora altă alegere. Nu există un scor al persoanei tale.",
+      "editorialStatus": "draft",
+      "rightsStatus": "pending",
+      "contentVersion": 1
+    },
+    {
+      "id": "35-44-e27",
+      "slug": "ce-model-ofer",
+      "ageGroup": "35-44",
+      "lifeStage": "Responsabilitate",
+      "chapterId": "C6",
+      "chapterTitle": "Valori, sens și acțiune",
+      "ordinal": 27,
+      "title": "Ce model ofer?",
+      "context": "O adultă observă că îi cere copilului să gestioneze calm emoțiile, dar ea însăși ridică vocea frecvent.",
+      "choices": [
+        {
+          "id": "option-1",
+          "text": "Spun că regulile sunt doar pentru copii",
+          "consequenceId": "consequence-1",
+          "consequence": "Obține conformare posibilă, dar transmite inconsistență."
+        },
+        {
+          "id": "option-2",
+          "text": "Mă condamn pentru orice scăpare",
+          "consequenceId": "consequence-2",
+          "consequence": "Crește vinovăția, fără schimbare practică."
+        },
+        {
+          "id": "option-3",
+          "text": "Recunosc și repar când greșesc",
+          "consequenceId": "consequence-3",
+          "consequence": "Oferă un exemplu realist de responsabilitate."
+        }
+      ],
+      "reflection": "Ce învață ceilalți din modul în care repari?",
+      "perspective": {
+        "text": "Perspectivă editorială de adăugat și verificat; nu prezenta acest câmp ca aprobat.",
+        "status": "pending_human_review"
+      },
+      "practicalAction": "Practica o scuză clară, fără justificări excesive.",
+      "completion": "Poți reveni asupra poveștii și explora altă alegere. Nu există un scor al persoanei tale.",
+      "editorialStatus": "draft",
+      "rightsStatus": "pending",
+      "contentVersion": 1
+    },
+    {
+      "id": "35-44-e28",
+      "slug": "o-decizie-care-nu-multumeste-pe-toti",
+      "ageGroup": "35-44",
+      "lifeStage": "Responsabilitate",
+      "chapterId": "C6",
+      "chapterTitle": "Valori, sens și acțiune",
+      "ordinal": 28,
+      "title": "O decizie care nu mulțumește pe toți",
+      "context": "O familie trebuie să aleagă între două programe de vacanță. Preferințele diferă, iar bugetul e limitat.",
+      "choices": [
+        {
+          "id": "option-1",
+          "text": "Aleg ce mă avantajează",
+          "consequenceId": "consequence-1",
+          "consequence": "Decizia e simplă pentru unul, dar nu pentru ceilalți."
+        },
+        {
+          "id": "option-2",
+          "text": "Amân până la ultimul moment",
+          "consequenceId": "consequence-2",
+          "consequence": "Evita discuția, dar opțiunile scad."
+        },
+        {
+          "id": "option-3",
+          "text": "Stabilim criterii comune și compromisuri",
+          "consequenceId": "consequence-3",
+          "consequence": "Nu toți primesc prima opțiune, dar sunt ascultați."
+        }
+      ],
+      "reflection": "Cum arată o decizie corectă când interesele diferă?",
+      "perspective": {
+        "text": "Perspectivă editorială de adăugat și verificat; nu prezenta acest câmp ca aprobat.",
+        "status": "pending_human_review"
+      },
+      "practicalAction": "Notați două criterii negociabile și unul esențial.",
+      "completion": "Poți reveni asupra poveștii și explora altă alegere. Nu există un scor al persoanei tale.",
+      "editorialStatus": "draft",
+      "rightsStatus": "pending",
+      "contentVersion": 1
+    },
+    {
+      "id": "35-44-e29",
+      "slug": "curajul-de-a-schimba-ritmul",
+      "ageGroup": "35-44",
+      "lifeStage": "Responsabilitate",
+      "chapterId": "C6",
+      "chapterTitle": "Valori, sens și acțiune",
+      "ordinal": 29,
+      "title": "Curajul de a schimba ritmul",
+      "context": "După ani de alergat între obligații, Dana ia în calcul să reducă un angajament public important.",
+      "choices": [
+        {
+          "id": "option-1",
+          "text": "Continui ca să nu dezamăgesc",
+          "consequenceId": "consequence-1",
+          "consequence": "Păstrează imaginea, dar sacrifică energie."
+        },
+        {
+          "id": "option-2",
+          "text": "Renunț fără explicații",
+          "consequenceId": "consequence-2",
+          "consequence": "Recuperează timp, dar lasă oameni nepregătiți."
+        },
+        {
+          "id": "option-3",
+          "text": "Planific o predare și ajustez rolul",
+          "consequenceId": "consequence-3",
+          "consequence": "Poate păstra relațiile fără a ignora limitele."
+        }
+      ],
+      "reflection": "Când schimbarea unui angajament este responsabilitate?",
+      "perspective": {
+        "text": "Perspectivă editorială de adăugat și verificat; nu prezenta acest câmp ca aprobat.",
+        "status": "pending_human_review"
+      },
+      "practicalAction": "Scrie un plan simplu de tranziție.",
+      "completion": "Poți reveni asupra poveștii și explora altă alegere. Nu există un scor al persoanei tale.",
+      "editorialStatus": "draft",
+      "rightsStatus": "pending",
+      "contentVersion": 1
+    },
+    {
+      "id": "35-44-e30",
+      "slug": "promisiunea-de-a-fi-mereu-puternic",
+      "ageGroup": "35-44",
+      "lifeStage": "Responsabilitate",
+      "chapterId": "C6",
+      "chapterTitle": "Valori, sens și acțiune",
+      "ordinal": 30,
+      "title": "Promisiunea de a fi mereu puternic",
+      "context": "După o perioadă solicitantă, Bogdan evită să le spună apropiaților că are nevoie de o pauză.",
+      "choices": [
+        {
+          "id": "option-1",
+          "text": "Pretind că totul e bine",
+          "consequenceId": "consequence-1",
+          "consequence": "Păstrează aparențele, dar sprijinul nu ajunge la el."
+        },
+        {
+          "id": "option-2",
+          "text": "Renunț brusc la responsabilități",
+          "consequenceId": "consequence-2",
+          "consequence": "Obține timp, dar ceilalți nu înțeleg schimbarea."
+        },
+        {
+          "id": "option-3",
+          "text": "Spun concret ce pot și ce nu pot",
+          "consequenceId": "consequence-3",
+          "consequence": "Poate împărți sarcini fără să își nege limitele."
+        }
+      ],
+      "reflection": "De ce este uneori greu să ceri sprijin?",
+      "perspective": {
+        "text": "Perspectivă editorială de adăugat și verificat; nu prezenta acest câmp ca aprobat.",
+        "status": "pending_human_review"
+      },
+      "practicalAction": "Formulează o cerere de ajutor precisă.",
+      "completion": "Poți reveni asupra poveștii și explora altă alegere. Nu există un scor al persoanei tale.",
+      "editorialStatus": "draft",
+      "rightsStatus": "pending",
+      "contentVersion": 1
+    },
+    {
+      "id": "45-59-e01",
+      "slug": "sistemul-nou-de-la-serviciu",
+      "ageGroup": "45-59",
+      "lifeStage": "Maturitate",
+      "chapterId": "C1",
+      "chapterTitle": "Gândire critică și discernământ",
+      "ordinal": 1,
+      "title": "Sistemul nou de la serviciu",
+      "context": "Sorin are multă experiență, dar echipa adoptă o aplicație pe care nu o cunoaște.",
+      "choices": [
+        {
+          "id": "option-1",
+          "text": "Refuz noua metodă",
+          "consequenceId": "consequence-1",
+          "consequence": "Păstrează rutina, dar unele sarcini devin mai dificile."
+        },
+        {
+          "id": "option-2",
+          "text": "Pretind că știu tot",
+          "consequenceId": "consequence-2",
+          "consequence": "Evită disconfortul, dar pot apărea greșeli."
+        },
+        {
+          "id": "option-3",
+          "text": "Cer demonstrație și contribui cu experiența mea",
+          "consequenceId": "consequence-3",
+          "consequence": "Învață și poate identifica limitele schimbării."
+        }
+      ],
+      "reflection": "Ce ai de câștigat când accepți să fii începător?",
+      "perspective": {
+        "text": "Perspectivă editorială de adăugat și verificat; nu prezenta acest câmp ca aprobat.",
+        "status": "pending_human_review"
+      },
+      "practicalAction": "Cere explicații pentru o funcție nouă.",
+      "completion": "Poți reveni asupra poveștii și explora altă alegere. Nu există un scor al persoanei tale.",
+      "editorialStatus": "draft",
+      "rightsStatus": "pending",
+      "contentVersion": 1
+    },
+    {
+      "id": "45-59-e02",
+      "slug": "opinia-aparata-ani-intregi",
+      "ageGroup": "45-59",
+      "lifeStage": "Maturitate",
+      "chapterId": "C1",
+      "chapterTitle": "Gândire critică și discernământ",
+      "ordinal": 2,
+      "title": "Opinia apărată ani întregi",
+      "context": "Elena descoperă informații credibile care contrazic o convingere susținută public mult timp.",
+      "choices": [
+        {
+          "id": "option-1",
+          "text": "Respinge datele",
+          "consequenceId": "consequence-1",
+          "consequence": "Își păstrează opinia, dar ignoră informații relevante."
+        },
+        {
+          "id": "option-2",
+          "text": "Își schimbă instantaneu părerea",
+          "consequenceId": "consequence-2",
+          "consequence": "Demonstrează flexibilitate, dar poate accepta altă afirmație neverificată."
+        },
+        {
+          "id": "option-3",
+          "text": "Examinează surse și nuanțe",
+          "consequenceId": "consequence-3",
+          "consequence": "Poate păstra ce era corect și revizui restul."
+        }
+      ],
+      "reflection": "De ce schimbarea opiniei poate părea pierdere de identitate?",
+      "perspective": {
+        "text": "Perspectivă editorială de adăugat și verificat; nu prezenta acest câmp ca aprobat.",
+        "status": "pending_human_review"
+      },
+      "practicalAction": "Scrie o convingere pe care ai putea-o testa.",
+      "completion": "Poți reveni asupra poveștii și explora altă alegere. Nu există un scor al persoanei tale.",
+      "editorialStatus": "draft",
+      "rightsStatus": "pending",
+      "contentVersion": 1
+    },
+    {
+      "id": "45-59-e03",
+      "slug": "statistica-surprinzatoare",
+      "ageGroup": "45-59",
+      "lifeStage": "Maturitate",
+      "chapterId": "C1",
+      "chapterTitle": "Gândire critică și discernământ",
+      "ordinal": 3,
+      "title": "Statistica surprinzătoare",
+      "context": "Un articol anunță o creștere dramatică a riscului unui fenomen, fără date absolute.",
+      "choices": [
+        {
+          "id": "option-1",
+          "text": "Trag concluzia imediat",
+          "consequenceId": "consequence-1",
+          "consequence": "Reacționează la procent fără a înțelege magnitudinea."
+        },
+        {
+          "id": "option-2",
+          "text": "Ignor statisticile complet",
+          "consequenceId": "consequence-2",
+          "consequence": "Evită confuzia, dar pierde informații utile."
+        },
+        {
+          "id": "option-3",
+          "text": "Cer baza și comparația",
+          "consequenceId": "consequence-3",
+          "consequence": "Poate vedea diferența între risc relativ și absolut."
+        }
+      ],
+      "reflection": "Ce înseamnă cifra fără baza ei?",
+      "perspective": {
+        "text": "Perspectivă editorială de adăugat și verificat; nu prezenta acest câmp ca aprobat.",
+        "status": "pending_human_review"
+      },
+      "practicalAction": "Caută valoarea de pornire a unui procent.",
+      "completion": "Poți reveni asupra poveștii și explora altă alegere. Nu există un scor al persoanei tale.",
+      "editorialStatus": "draft",
+      "rightsStatus": "pending",
+      "contentVersion": 1
+    },
+    {
+      "id": "45-59-e04",
+      "slug": "promisiunea-unei-investitii",
+      "ageGroup": "45-59",
+      "lifeStage": "Maturitate",
+      "chapterId": "C1",
+      "chapterTitle": "Gândire critică și discernământ",
+      "ordinal": 4,
+      "title": "Promisiunea unei investiții",
+      "context": "Un cunoscut propune o investiție cu randament mare și spune că locurile se ocupă astăzi.",
+      "choices": [
+        {
+          "id": "option-1",
+          "text": "Trimit economiile acum",
+          "consequenceId": "consequence-1",
+          "consequence": "Expune capitalul fără informații suficiente."
+        },
+        {
+          "id": "option-2",
+          "text": "Îl acuz de fraudă fără dovezi",
+          "consequenceId": "consequence-2",
+          "consequence": "Poate strica relația și nu verifică produsul."
+        },
+        {
+          "id": "option-3",
+          "text": "Cer documente și evaluez riscul",
+          "consequenceId": "consequence-3",
+          "consequence": "Poate decide să refuze fără a confunda prietenia cu analiza."
+        }
+      ],
+      "reflection": "Cum schimbă urgența felul în care cântărești riscul?",
+      "perspective": {
+        "text": "Perspectivă editorială de adăugat și verificat; nu prezenta acest câmp ca aprobat.",
+        "status": "pending_human_review"
+      },
+      "practicalAction": "Notează ce trebuie verificat înainte de a investi.",
+      "completion": "Poți reveni asupra poveștii și explora altă alegere. Nu există un scor al persoanei tale.",
+      "editorialStatus": "draft",
+      "rightsStatus": "pending",
+      "contentVersion": 1
+    },
+    {
+      "id": "45-59-e05",
+      "slug": "recomandarea-din-familie",
+      "ageGroup": "45-59",
+      "lifeStage": "Maturitate",
+      "chapterId": "C1",
+      "chapterTitle": "Gândire critică și discernământ",
+      "ordinal": 5,
+      "title": "Recomandarea din familie",
+      "context": "O rudă spune că o metodă veche este întotdeauna mai bună pentru o problemă comună.",
+      "choices": [
+        {
+          "id": "option-1",
+          "text": "O urmez fiindcă e tradițională",
+          "consequenceId": "consequence-1",
+          "consequence": "Poate ignora alternative utile sau riscuri."
+        },
+        {
+          "id": "option-2",
+          "text": "O resping doar fiindcă e veche",
+          "consequenceId": "consequence-2",
+          "consequence": "Confundă noutatea cu valoarea."
+        },
+        {
+          "id": "option-3",
+          "text": "Compar contextul și dovezile",
+          "consequenceId": "consequence-3",
+          "consequence": "Poate păstra aspectele folositoare și renunța la cele nefondate."
+        }
+      ],
+      "reflection": "Ce face ca o practică să merite păstrată?",
+      "perspective": {
+        "text": "Perspectivă editorială de adăugat și verificat; nu prezenta acest câmp ca aprobat.",
+        "status": "pending_human_review"
+      },
+      "practicalAction": "Compară două argumente, nu două generații.",
+      "completion": "Poți reveni asupra poveștii și explora altă alegere. Nu există un scor al persoanei tale.",
+      "editorialStatus": "draft",
+      "rightsStatus": "pending",
+      "contentVersion": 1
+    },
+    {
+      "id": "45-59-e06",
+      "slug": "schimbarea-rolului-profesional",
+      "ageGroup": "45-59",
+      "lifeStage": "Maturitate",
+      "chapterId": "C2",
+      "chapterTitle": "Decizii și priorități",
+      "ordinal": 6,
+      "title": "Schimbarea rolului profesional",
+      "context": "După două decenii într-un domeniu, Mihaela primește ocazia unui rol diferit, cu mai puțin statut și mai multă autonomie.",
+      "choices": [
+        {
+          "id": "option-1",
+          "text": "Accept imediat",
+          "consequenceId": "consequence-1",
+          "consequence": "Câștigă libertate, dar pierde avantaje cunoscute."
+        },
+        {
+          "id": "option-2",
+          "text": "Refuz din orgoliu",
+          "consequenceId": "consequence-2",
+          "consequence": "Păstrează titlul, dar poate pierde o potrivire mai bună."
+        },
+        {
+          "id": "option-3",
+          "text": "Compar munca de zi cu zi",
+          "consequenceId": "consequence-3",
+          "consequence": "Poate decide după realitatea rolului, nu după etichetă."
+        }
+      ],
+      "reflection": "Ce înseamnă succesul acum față de acum zece ani?",
+      "perspective": {
+        "text": "Perspectivă editorială de adăugat și verificat; nu prezenta acest câmp ca aprobat.",
+        "status": "pending_human_review"
+      },
+      "practicalAction": "Descrie o zi obișnuită în fiecare rol.",
+      "completion": "Poți reveni asupra poveștii și explora altă alegere. Nu există un scor al persoanei tale.",
+      "editorialStatus": "draft",
+      "rightsStatus": "pending",
+      "contentVersion": 1
+    },
+    {
+      "id": "45-59-e07",
+      "slug": "reparatie-sau-inlocuire",
+      "ageGroup": "45-59",
+      "lifeStage": "Maturitate",
+      "chapterId": "C2",
+      "chapterTitle": "Decizii și priorități",
+      "ordinal": 7,
+      "title": "Reparație sau înlocuire?",
+      "context": "Mașina lui Adrian are nevoie de o reparație costisitoare. Un vehicul nou implică credit și cheltuieli mai mari.",
+      "choices": [
+        {
+          "id": "option-1",
+          "text": "Cumpăr imediat alta",
+          "consequenceId": "consequence-1",
+          "consequence": "Reduce unele incertitudini, dar își asumă costuri noi."
+        },
+        {
+          "id": "option-2",
+          "text": "Repar indiferent de diagnostic",
+          "consequenceId": "consequence-2",
+          "consequence": "Păstrează mașina, dar poate investi într-o problemă recurentă."
+        },
+        {
+          "id": "option-3",
+          "text": "Cer evaluare și calculez costul total",
+          "consequenceId": "consequence-3",
+          "consequence": "Poate compara scenarii, fără să elimine riscul tehnic."
+        }
+      ],
+      "reflection": "Ce costuri ascunse sunt în fiecare opțiune?",
+      "perspective": {
+        "text": "Perspectivă editorială de adăugat și verificat; nu prezenta acest câmp ca aprobat.",
+        "status": "pending_human_review"
+      },
+      "practicalAction": "Compară cheltuielile pe un an, nu doar prețul inițial.",
+      "completion": "Poți reveni asupra poveștii și explora altă alegere. Nu există un scor al persoanei tale.",
+      "editorialStatus": "draft",
+      "rightsStatus": "pending",
+      "contentVersion": 1
+    },
+    {
+      "id": "45-59-e08",
+      "slug": "sprijinul-pentru-adultul-tanar",
+      "ageGroup": "45-59",
+      "lifeStage": "Maturitate",
+      "chapterId": "C2",
+      "chapterTitle": "Decizii și priorități",
+      "ordinal": 8,
+      "title": "Sprijinul pentru adultul tânăr",
+      "context": "Fiica adultă cere ajutor financiar pentru o alegere pe care părinții nu o înțeleg complet.",
+      "choices": [
+        {
+          "id": "option-1",
+          "text": "O finanțez fără întrebări",
+          "consequenceId": "consequence-1",
+          "consequence": "O ajută, dar poate tensiona bugetul și autonomia."
+        },
+        {
+          "id": "option-2",
+          "text": "Refuz ca pedeapsă",
+          "consequenceId": "consequence-2",
+          "consequence": "Protejează resursele, dar transmite control."
+        },
+        {
+          "id": "option-3",
+          "text": "Discut condiții și limite",
+          "consequenceId": "consequence-3",
+          "consequence": "Pot stabili sprijin clar fără a prelua decizia."
+        }
+      ],
+      "reflection": "Cum susții un adult fără să îi conduci viața?",
+      "perspective": {
+        "text": "Perspectivă editorială de adăugat și verificat; nu prezenta acest câmp ca aprobat.",
+        "status": "pending_human_review"
+      },
+      "practicalAction": "Explică un sprijin pe care îl poți oferi realist.",
+      "completion": "Poți reveni asupra poveștii și explora altă alegere. Nu există un scor al persoanei tale.",
+      "editorialStatus": "draft",
+      "rightsStatus": "pending",
+      "contentVersion": 1
+    },
+    {
+      "id": "45-59-e09",
+      "slug": "casa-cu-prea-multe-lucruri",
+      "ageGroup": "45-59",
+      "lifeStage": "Maturitate",
+      "chapterId": "C2",
+      "chapterTitle": "Decizii și priorități",
+      "ordinal": 9,
+      "title": "Casa cu prea multe lucruri",
+      "context": "După ani de acumulare, Ovidiu vrea să elibereze spațiul, dar multe obiecte au valoare afectivă.",
+      "choices": [
+        {
+          "id": "option-1",
+          "text": "Arunc tot într-o zi",
+          "consequenceId": "consequence-1",
+          "consequence": "Câștigă spațiu, dar poate regreta pierderi ireversibile."
+        },
+        {
+          "id": "option-2",
+          "text": "Nu ating nimic",
+          "consequenceId": "consequence-2",
+          "consequence": "Păstrează amintirile, însă spațiul rămâne aglomerat."
+        },
+        {
+          "id": "option-3",
+          "text": "Sortăm după utilitate și semnificație",
+          "consequenceId": "consequence-3",
+          "consequence": "Poate păstra obiecte reprezentative fără a conserva tot."
+        }
+      ],
+      "reflection": "Ce păstrezi pentru amintire și ce din inerție?",
+      "perspective": {
+        "text": "Perspectivă editorială de adăugat și verificat; nu prezenta acest câmp ca aprobat.",
+        "status": "pending_human_review"
+      },
+      "practicalAction": "Alege un sertar de evaluat fără grabă.",
+      "completion": "Poți reveni asupra poveștii și explora altă alegere. Nu există un scor al persoanei tale.",
+      "editorialStatus": "draft",
+      "rightsStatus": "pending",
+      "contentVersion": 1
+    },
+    {
+      "id": "45-59-e10",
+      "slug": "proiectul-amanat-de-mult",
+      "ageGroup": "45-59",
+      "lifeStage": "Maturitate",
+      "chapterId": "C2",
+      "chapterTitle": "Decizii și priorități",
+      "ordinal": 10,
+      "title": "Proiectul amânat de mult",
+      "context": "Larisa a dorit ani întregi să învețe o limbă, dar acum are responsabilități și se teme să fie începătoare.",
+      "choices": [
+        {
+          "id": "option-1",
+          "text": "Mă înscriu la cel mai intensiv curs",
+          "consequenceId": "consequence-1",
+          "consequence": "Progresează inițial, dar ritmul poate fi greu."
+        },
+        {
+          "id": "option-2",
+          "text": "Renunț pentru că e prea târziu",
+          "consequenceId": "consequence-2",
+          "consequence": "Evită disconfortul, dar nu își testează interesul."
+        },
+        {
+          "id": "option-3",
+          "text": "Încep cu un modul introductiv",
+          "consequenceId": "consequence-3",
+          "consequence": "Explorează dorința la un ritm realist."
+        }
+      ],
+      "reflection": "Ce obiectiv merită urmărit fără presiunea performanței?",
+      "perspective": {
+        "text": "Perspectivă editorială de adăugat și verificat; nu prezenta acest câmp ca aprobat.",
+        "status": "pending_human_review"
+      },
+      "practicalAction": "Învață câteva expresii într-o limbă nouă.",
+      "completion": "Poți reveni asupra poveștii și explora altă alegere. Nu există un scor al persoanei tale.",
+      "editorialStatus": "draft",
+      "rightsStatus": "pending",
+      "contentVersion": 1
+    },
+    {
+      "id": "45-59-e11",
+      "slug": "feedbackul-colegului-mai-tanar",
+      "ageGroup": "45-59",
+      "lifeStage": "Maturitate",
+      "chapterId": "C3",
+      "chapterTitle": "Emoții și autoreglare",
+      "ordinal": 11,
+      "title": "Feedbackul colegului mai tânăr",
+      "context": "Un coleg mai tânăr îi sugerează lui Mircea o metodă de lucru mai eficientă. Se simte subestimat.",
+      "choices": [
+        {
+          "id": "option-1",
+          "text": "Îl pun la punct",
+          "consequenceId": "consequence-1",
+          "consequence": "Apără statutul, dar reduce colaborarea."
+        },
+        {
+          "id": "option-2",
+          "text": "Accept orice propunere",
+          "consequenceId": "consequence-2",
+          "consequence": "Evită conflictul, dar poate ignora limite reale."
+        },
+        {
+          "id": "option-3",
+          "text": "Testăm metoda și comparăm rezultatele",
+          "consequenceId": "consequence-3",
+          "consequence": "Experiența și ideile noi pot fi evaluate împreună."
+        }
+      ],
+      "reflection": "De ce contează cine oferă o idee?",
+      "perspective": {
+        "text": "Perspectivă editorială de adăugat și verificat; nu prezenta acest câmp ca aprobat.",
+        "status": "pending_human_review"
+      },
+      "practicalAction": "Testează o sugestie înainte să o judeci.",
+      "completion": "Poți reveni asupra poveștii și explora altă alegere. Nu există un scor al persoanei tale.",
+      "editorialStatus": "draft",
+      "rightsStatus": "pending",
+      "contentVersion": 1
+    },
+    {
+      "id": "45-59-e12",
+      "slug": "regretul-unei-alegeri-vechi",
+      "ageGroup": "45-59",
+      "lifeStage": "Maturitate",
+      "chapterId": "C3",
+      "chapterTitle": "Emoții și autoreglare",
+      "ordinal": 12,
+      "title": "Regretul unei alegeri vechi",
+      "context": "Raluca își amintește un drum profesional abandonat și se întreabă ce ar fi fost dacă îl urma.",
+      "choices": [
+        {
+          "id": "option-1",
+          "text": "Mă învinovățesc pentru trecut",
+          "consequenceId": "consequence-1",
+          "consequence": "Își amplifică regretul fără a schimba decizia."
+        },
+        {
+          "id": "option-2",
+          "text": "Pretind că nu a contat",
+          "consequenceId": "consequence-2",
+          "consequence": "Evită emoția, dar și lecția."
+        },
+        {
+          "id": "option-3",
+          "text": "Privesc opțiunile disponibile acum",
+          "consequenceId": "consequence-3",
+          "consequence": "Poate transforma regretul într-o informație despre valori."
+        }
+      ],
+      "reflection": "Ce știi astăzi și nu puteai ști atunci?",
+      "perspective": {
+        "text": "Perspectivă editorială de adăugat și verificat; nu prezenta acest câmp ca aprobat.",
+        "status": "pending_human_review"
+      },
+      "practicalAction": "Scrie ce ai învățat fără un verdict asupra trecutului.",
+      "completion": "Poți reveni asupra poveștii și explora altă alegere. Nu există un scor al persoanei tale.",
+      "editorialStatus": "draft",
+      "rightsStatus": "pending",
+      "contentVersion": 1
+    },
+    {
+      "id": "45-59-e13",
+      "slug": "convingerea-despre-sanatate",
+      "ageGroup": "45-59",
+      "lifeStage": "Maturitate",
+      "chapterId": "C3",
+      "chapterTitle": "Emoții și autoreglare",
+      "ordinal": 13,
+      "title": "Convingerea despre sănătate",
+      "context": "Dorin observă că un obicei vechi nu îi mai priește și primește recomandări diferite de la cunoscuți.",
+      "choices": [
+        {
+          "id": "option-1",
+          "text": "Urmez sfatul cel mai categoric",
+          "consequenceId": "consequence-1",
+          "consequence": "Poate alege o variantă nepotrivită."
+        },
+        {
+          "id": "option-2",
+          "text": "Nu schimb nimic",
+          "consequenceId": "consequence-2",
+          "consequence": "Păstrează familiarul, dar disconfortul persistă."
+        },
+        {
+          "id": "option-3",
+          "text": "Caut evaluare profesională și pași realiști",
+          "consequenceId": "consequence-3",
+          "consequence": "Poate ajusta în mod informat, potrivit situației sale."
+        }
+      ],
+      "reflection": "Cum diferențiezi preferința personală de o recomandare generală?",
+      "perspective": {
+        "text": "Perspectivă editorială de adăugat și verificat; nu prezenta acest câmp ca aprobat.",
+        "status": "pending_human_review"
+      },
+      "practicalAction": "Notează două întrebări pentru un specialist.",
+      "completion": "Poți reveni asupra poveștii și explora altă alegere. Nu există un scor al persoanei tale.",
+      "editorialStatus": "draft",
+      "rightsStatus": "pending",
+      "contentVersion": 1
+    },
+    {
+      "id": "45-59-e14",
+      "slug": "critica-din-partea-familiei",
+      "ageGroup": "45-59",
+      "lifeStage": "Maturitate",
+      "chapterId": "C3",
+      "chapterTitle": "Emoții și autoreglare",
+      "ordinal": 14,
+      "title": "Critica din partea familiei",
+      "context": "Un membru al familiei spune că Nina oferă sfaturi fără să asculte. Ea consideră că doar vrea să ajute.",
+      "choices": [
+        {
+          "id": "option-1",
+          "text": "Insist că am dreptate",
+          "consequenceId": "consequence-1",
+          "consequence": "Își apără intenția, dar nu aude efectul."
+        },
+        {
+          "id": "option-2",
+          "text": "Mă retrag complet",
+          "consequenceId": "consequence-2",
+          "consequence": "Nu mai impune sfaturi, dar pierde dialogul."
+        },
+        {
+          "id": "option-3",
+          "text": "Întreb când s-a simțit neascultat",
+          "consequenceId": "consequence-3",
+          "consequence": "Poate identifica un comportament de schimbat."
+        }
+      ],
+      "reflection": "Poate intenția bună să aibă un efect neplăcut?",
+      "perspective": {
+        "text": "Perspectivă editorială de adăugat și verificat; nu prezenta acest câmp ca aprobat.",
+        "status": "pending_human_review"
+      },
+      "practicalAction": "Începe următoarea conversație prin ascultare.",
+      "completion": "Poți reveni asupra poveștii și explora altă alegere. Nu există un scor al persoanei tale.",
+      "editorialStatus": "draft",
+      "rightsStatus": "pending",
+      "contentVersion": 1
+    },
+    {
+      "id": "45-59-e15",
+      "slug": "o-perioada-de-tranzitie",
+      "ageGroup": "45-59",
+      "lifeStage": "Maturitate",
+      "chapterId": "C3",
+      "chapterTitle": "Emoții și autoreglare",
+      "ordinal": 15,
+      "title": "O perioadă de tranziție",
+      "context": "După o schimbare profesională, Daniel își pierde rutina clară și se simte dezorientat.",
+      "choices": [
+        {
+          "id": "option-1",
+          "text": "Îmi umplu tot timpul cu sarcini",
+          "consequenceId": "consequence-1",
+          "consequence": "Reface structura, dar poate evita întrebările importante."
+        },
+        {
+          "id": "option-2",
+          "text": "Nu planific nimic",
+          "consequenceId": "consequence-2",
+          "consequence": "Reduce presiunea, dar zilele devin difuze."
+        },
+        {
+          "id": "option-3",
+          "text": "Construiesc repere flexibile",
+          "consequenceId": "consequence-3",
+          "consequence": "Poate păstra ritm și spațiu de explorare."
+        }
+      ],
+      "reflection": "Ce rutină îți oferă sens, nu doar ocupare?",
+      "perspective": {
+        "text": "Perspectivă editorială de adăugat și verificat; nu prezenta acest câmp ca aprobat.",
+        "status": "pending_human_review"
+      },
+      "practicalAction": "Stabilește două repere săptămânale.",
+      "completion": "Poți reveni asupra poveștii și explora altă alegere. Nu există un scor al persoanei tale.",
+      "editorialStatus": "draft",
+      "rightsStatus": "pending",
+      "contentVersion": 1
+    },
+    {
+      "id": "45-59-e16",
+      "slug": "sfatul-necerut",
+      "ageGroup": "45-59",
+      "lifeStage": "Maturitate",
+      "chapterId": "C4",
+      "chapterTitle": "Relații și comunicare",
+      "ordinal": 16,
+      "title": "Sfatul necerut",
+      "context": "Marian a trecut printr-o situație asemănătoare cu a nepotului adult și vrea să îi explice exact ce să facă.",
+      "choices": [
+        {
+          "id": "option-1",
+          "text": "Îi dau instrucțiuni",
+          "consequenceId": "consequence-1",
+          "consequence": "Împărtășește experiența, dar poate diminua autonomia celuilalt."
+        },
+        {
+          "id": "option-2",
+          "text": "Nu spun nimic nici dacă mi se cere",
+          "consequenceId": "consequence-2",
+          "consequence": "Evită influența, dar reține sprijin util."
+        },
+        {
+          "id": "option-3",
+          "text": "Întreb dacă dorește experiența mea",
+          "consequenceId": "consequence-3",
+          "consequence": "Poate oferi perspectiva ca opțiune, nu comandă."
+        }
+      ],
+      "reflection": "Cum se deosebește mentoratul de control?",
+      "perspective": {
+        "text": "Perspectivă editorială de adăugat și verificat; nu prezenta acest câmp ca aprobat.",
+        "status": "pending_human_review"
+      },
+      "practicalAction": "Transformă un sfat într-o întrebare.",
+      "completion": "Poți reveni asupra poveștii și explora altă alegere. Nu există un scor al persoanei tale.",
+      "editorialStatus": "draft",
+      "rightsStatus": "pending",
+      "contentVersion": 1
+    },
+    {
+      "id": "45-59-e17",
+      "slug": "prietenia-care-isi-schimba-ritmul",
+      "ageGroup": "45-59",
+      "lifeStage": "Maturitate",
+      "chapterId": "C4",
+      "chapterTitle": "Relații și comunicare",
+      "ordinal": 17,
+      "title": "Prietenia care își schimbă ritmul",
+      "context": "Două prietene se văd tot mai rar din cauza schimbării stilului de viață.",
+      "choices": [
+        {
+          "id": "option-1",
+          "text": "Cer să fie exact ca înainte",
+          "consequenceId": "consequence-1",
+          "consequence": "Păstrează așteptările, dar cresc tensiunile."
+        },
+        {
+          "id": "option-2",
+          "text": "Închei relația fără discuție",
+          "consequenceId": "consequence-2",
+          "consequence": "Evită dezamăgirea, dar pierde o conexiune."
+        },
+        {
+          "id": "option-3",
+          "text": "Discut o formă nouă de apropiere",
+          "consequenceId": "consequence-3",
+          "consequence": "Pot menține legătura prin alte ritualuri."
+        }
+      ],
+      "reflection": "Poate o relație bună să arate diferit în timp?",
+      "perspective": {
+        "text": "Perspectivă editorială de adăugat și verificat; nu prezenta acest câmp ca aprobat.",
+        "status": "pending_human_review"
+      },
+      "practicalAction": "Propune o întâlnire adaptată prezentului.",
+      "completion": "Poți reveni asupra poveștii și explora altă alegere. Nu există un scor al persoanei tale.",
+      "editorialStatus": "draft",
+      "rightsStatus": "pending",
+      "contentVersion": 1
+    },
+    {
+      "id": "45-59-e18",
+      "slug": "parintele-adult-si-limitele",
+      "ageGroup": "45-59",
+      "lifeStage": "Maturitate",
+      "chapterId": "C4",
+      "chapterTitle": "Relații și comunicare",
+      "ordinal": 18,
+      "title": "Părintele adult și limitele",
+      "context": "Mama lui Sorin cere ajutor frecvent, uneori pentru probleme pe care le poate rezolva singură. Sorin are un program încărcat.",
+      "choices": [
+        {
+          "id": "option-1",
+          "text": "Răspund la orice oră",
+          "consequenceId": "consequence-1",
+          "consequence": "Oferă sprijin, dar se epuizează."
+        },
+        {
+          "id": "option-2",
+          "text": "Nu mai răspund deloc",
+          "consequenceId": "consequence-2",
+          "consequence": "Își protejează timpul, dar poate ignora nevoi reale."
+        },
+        {
+          "id": "option-3",
+          "text": "Discut nevoi și intervale concrete",
+          "consequenceId": "consequence-3",
+          "consequence": "Poate oferi suport previzibil și respectuos."
+        }
+      ],
+      "reflection": "Cum deosebești disponibilitatea de responsabilitate?",
+      "perspective": {
+        "text": "Perspectivă editorială de adăugat și verificat; nu prezenta acest câmp ca aprobat.",
+        "status": "pending_human_review"
+      },
+      "practicalAction": "Stabilește un mod realist de a oferi sprijin.",
+      "completion": "Poți reveni asupra poveștii și explora altă alegere. Nu există un scor al persoanei tale.",
+      "editorialStatus": "draft",
+      "rightsStatus": "pending",
+      "contentVersion": 1
+    },
+    {
+      "id": "45-59-e19",
+      "slug": "discutia-despre-mostenirea-unor-obiceiuri",
+      "ageGroup": "45-59",
+      "lifeStage": "Maturitate",
+      "chapterId": "C4",
+      "chapterTitle": "Relații și comunicare",
+      "ordinal": 19,
+      "title": "Discuția despre moștenirea unor obiceiuri",
+      "context": "În familie, Ana observă că anumite expresii și reguli vechi provoacă tensiuni între generații.",
+      "choices": [
+        {
+          "id": "option-1",
+          "text": "Impune regula veche",
+          "consequenceId": "consequence-1",
+          "consequence": "Păstrează tradiția, dar poate diminua încrederea."
+        },
+        {
+          "id": "option-2",
+          "text": "Respinge orice tradiție",
+          "consequenceId": "consequence-2",
+          "consequence": "Evită conflictul punctual, dar pierde practici cu sens."
+        },
+        {
+          "id": "option-3",
+          "text": "Discutăm ce scop avea regula",
+          "consequenceId": "consequence-3",
+          "consequence": "Pot păstra valoarea și schimba forma."
+        }
+      ],
+      "reflection": "Ce merită transmis și ce merită revizuit?",
+      "perspective": {
+        "text": "Perspectivă editorială de adăugat și verificat; nu prezenta acest câmp ca aprobat.",
+        "status": "pending_human_review"
+      },
+      "practicalAction": "Întreabă pe cineva ce înseamnă o tradiție pentru el.",
+      "completion": "Poți reveni asupra poveștii și explora altă alegere. Nu există un scor al persoanei tale.",
+      "editorialStatus": "draft",
+      "rightsStatus": "pending",
+      "contentVersion": 1
+    },
+    {
+      "id": "45-59-e20",
+      "slug": "partenerii-cu-prioritati-diferite",
+      "ageGroup": "45-59",
+      "lifeStage": "Maturitate",
+      "chapterId": "C4",
+      "chapterTitle": "Relații și comunicare",
+      "ordinal": 20,
+      "title": "Partenerii cu priorități diferite",
+      "context": "După mulți ani împreună, unul vrea mai multe călătorii, celălalt mai multă stabilitate acasă.",
+      "choices": [
+        {
+          "id": "option-1",
+          "text": "Decid eu programul",
+          "consequenceId": "consequence-1",
+          "consequence": "Mișcă planurile, dar creează resentimente."
+        },
+        {
+          "id": "option-2",
+          "text": "Îngrop orice dorință",
+          "consequenceId": "consequence-2",
+          "consequence": "Evită conflictul, dar se simte neauzit."
+        },
+        {
+          "id": "option-3",
+          "text": "Explorăm experiențe pilot",
+          "consequenceId": "consequence-3",
+          "consequence": "Pot testa un compromis fără angajamente mari."
+        }
+      ],
+      "reflection": "Cum negociem schimbările fără să anulăm trecutul?",
+      "perspective": {
+        "text": "Perspectivă editorială de adăugat și verificat; nu prezenta acest câmp ca aprobat.",
+        "status": "pending_human_review"
+      },
+      "practicalAction": "Propuneți o experiență mică de probă.",
+      "completion": "Poți reveni asupra poveștii și explora altă alegere. Nu există un scor al persoanei tale.",
+      "editorialStatus": "draft",
+      "rightsStatus": "pending",
+      "contentVersion": 1
+    },
+    {
+      "id": "45-59-e21",
+      "slug": "rutina-de-douazeci-de-ani",
+      "ageGroup": "45-59",
+      "lifeStage": "Maturitate",
+      "chapterId": "C5",
+      "chapterTitle": "Disciplină și adaptare",
+      "ordinal": 21,
+      "title": "Rutina de douăzeci de ani",
+      "context": "Radu are o rutină care cândva îl ajuta, dar acum nu mai corespunde energiei și programului.",
+      "choices": [
+        {
+          "id": "option-1",
+          "text": "O păstrez identică",
+          "consequenceId": "consequence-1",
+          "consequence": "Conservă familiaritatea, dar apare frustrare."
+        },
+        {
+          "id": "option-2",
+          "text": "O distrug complet",
+          "consequenceId": "consequence-2",
+          "consequence": "Eliberează timp, dar pierde elemente utile."
+        },
+        {
+          "id": "option-3",
+          "text": "Testez o schimbare graduală",
+          "consequenceId": "consequence-3",
+          "consequence": "Poate vedea ce merită păstrat."
+        }
+      ],
+      "reflection": "Când perseverența devine rigiditate?",
+      "perspective": {
+        "text": "Perspectivă editorială de adăugat și verificat; nu prezenta acest câmp ca aprobat.",
+        "status": "pending_human_review"
+      },
+      "practicalAction": "Schimbă doar un pas din rutină.",
+      "completion": "Poți reveni asupra poveștii și explora altă alegere. Nu există un scor al persoanei tale.",
+      "editorialStatus": "draft",
+      "rightsStatus": "pending",
+      "contentVersion": 1
+    },
+    {
+      "id": "45-59-e22",
+      "slug": "tehnologia-care-intimideaza",
+      "ageGroup": "45-59",
+      "lifeStage": "Maturitate",
+      "chapterId": "C5",
+      "chapterTitle": "Disciplină și adaptare",
+      "ordinal": 22,
+      "title": "Tehnologia care intimidează",
+      "context": "Mihaela evită o aplicație utilă pentru că interfața îi pare complicată, deși a învățat multe sisteme înainte.",
+      "choices": [
+        {
+          "id": "option-1",
+          "text": "Îi cer altcuiva să facă totul",
+          "consequenceId": "consequence-1",
+          "consequence": "Rezolvă sarcina, dar rămâne dependentă."
+        },
+        {
+          "id": "option-2",
+          "text": "Renunț la serviciu",
+          "consequenceId": "consequence-2",
+          "consequence": "Evită dificultatea, dar pierde un beneficiu."
+        },
+        {
+          "id": "option-3",
+          "text": "Exersez într-un cont de probă",
+          "consequenceId": "consequence-3",
+          "consequence": "Poate învăța fără presiune."
+        }
+      ],
+      "reflection": "Ce te ajută când începi ceva necunoscut?",
+      "perspective": {
+        "text": "Perspectivă editorială de adăugat și verificat; nu prezenta acest câmp ca aprobat.",
+        "status": "pending_human_review"
+      },
+      "practicalAction": "Învață o singură funcție nouă.",
+      "completion": "Poți reveni asupra poveștii și explora altă alegere. Nu există un scor al persoanei tale.",
+      "editorialStatus": "draft",
+      "rightsStatus": "pending",
+      "contentVersion": 1
+    },
+    {
+      "id": "45-59-e23",
+      "slug": "programul-de-miscare-nou",
+      "ageGroup": "45-59",
+      "lifeStage": "Maturitate",
+      "chapterId": "C5",
+      "chapterTitle": "Disciplină și adaptare",
+      "ordinal": 23,
+      "title": "Programul de mișcare nou",
+      "context": "După o schimbare a stilului de viață, Petru vrea o rutină de mișcare adecvată propriilor posibilități.",
+      "choices": [
+        {
+          "id": "option-1",
+          "text": "Copiez antrenamentul altcuiva",
+          "consequenceId": "consequence-1",
+          "consequence": "Poate fi nepotrivit nevoilor sale."
+        },
+        {
+          "id": "option-2",
+          "text": "Nu fac nimic",
+          "consequenceId": "consequence-2",
+          "consequence": "Evită disconfortul, dar ratează explorarea."
+        },
+        {
+          "id": "option-3",
+          "text": "Aleg activități potrivite și cer sfat când e nevoie",
+          "consequenceId": "consequence-3",
+          "consequence": "Poate construi o rutină sustenabilă."
+        }
+      ],
+      "reflection": "De ce comparația nu este un plan personal?",
+      "perspective": {
+        "text": "Perspectivă editorială de adăugat și verificat; nu prezenta acest câmp ca aprobat.",
+        "status": "pending_human_review"
+      },
+      "practicalAction": "Alege o activitate confortabilă pentru început.",
+      "completion": "Poți reveni asupra poveștii și explora altă alegere. Nu există un scor al persoanei tale.",
+      "editorialStatus": "draft",
+      "rightsStatus": "pending",
+      "contentVersion": 1
+    },
+    {
+      "id": "45-59-e24",
+      "slug": "mentoratul-fara-retete",
+      "ageGroup": "45-59",
+      "lifeStage": "Maturitate",
+      "chapterId": "C5",
+      "chapterTitle": "Disciplină și adaptare",
+      "ordinal": 24,
+      "title": "Mentoratul fără rețete",
+      "context": "Elena este rugată să ajute un coleg nou, dar își amintește că propria cale a fost neobișnuită.",
+      "choices": [
+        {
+          "id": "option-1",
+          "text": "Îi prescriu drumul meu",
+          "consequenceId": "consequence-1",
+          "consequence": "Oferă structură, dar ignoră contextul lui."
+        },
+        {
+          "id": "option-2",
+          "text": "Îi spun să se descurce singur",
+          "consequenceId": "consequence-2",
+          "consequence": "Protejează autonomia, dar nu oferă ajutor."
+        },
+        {
+          "id": "option-3",
+          "text": "Îl ajut să își formuleze criteriile",
+          "consequenceId": "consequence-3",
+          "consequence": "Poate folosi experiența Elenei fără să o copieze."
+        }
+      ],
+      "reflection": "Cum dai mai departe experiența fără să îți creezi o replică?",
+      "perspective": {
+        "text": "Perspectivă editorială de adăugat și verificat; nu prezenta acest câmp ca aprobat.",
+        "status": "pending_human_review"
+      },
+      "practicalAction": "Pune trei întrebări înainte să oferi un sfat.",
+      "completion": "Poți reveni asupra poveștii și explora altă alegere. Nu există un scor al persoanei tale.",
+      "editorialStatus": "draft",
+      "rightsStatus": "pending",
+      "contentVersion": 1
+    },
+    {
+      "id": "45-59-e25",
+      "slug": "timpul-pentru-mine",
+      "ageGroup": "45-59",
+      "lifeStage": "Maturitate",
+      "chapterId": "C5",
+      "chapterTitle": "Disciplină și adaptare",
+      "ordinal": 25,
+      "title": "Timpul pentru mine",
+      "context": "Cristina a pus ani întregi alte responsabilități înaintea intereselor proprii. Acum are un interval liber și nu știe ce să aleagă.",
+      "choices": [
+        {
+          "id": "option-1",
+          "text": "Îl umplu cu sarcini utile altora",
+          "consequenceId": "consequence-1",
+          "consequence": "Păstrează rolurile familiare, dar amână explorarea."
+        },
+        {
+          "id": "option-2",
+          "text": "Aștept să apară inspirația",
+          "consequenceId": "consequence-2",
+          "consequence": "Evită presiunea, dar timpul trece."
+        },
+        {
+          "id": "option-3",
+          "text": "Încerc două activități mici",
+          "consequenceId": "consequence-3",
+          "consequence": "Poate redescoperi interese fără obligație."
+        }
+      ],
+      "reflection": "Cine ești în afara rolurilor zilnice?",
+      "perspective": {
+        "text": "Perspectivă editorială de adăugat și verificat; nu prezenta acest câmp ca aprobat.",
+        "status": "pending_human_review"
+      },
+      "practicalAction": "Alege o activitate numai pentru interesul personal.",
+      "completion": "Poți reveni asupra poveștii și explora altă alegere. Nu există un scor al persoanei tale.",
+      "editorialStatus": "draft",
+      "rightsStatus": "pending",
+      "contentVersion": 1
+    },
+    {
+      "id": "45-59-e26",
+      "slug": "cand-nu-mai-esti-expertul-principal",
+      "ageGroup": "45-59",
+      "lifeStage": "Maturitate",
+      "chapterId": "C6",
+      "chapterTitle": "Valori, sens și acțiune",
+      "ordinal": 26,
+      "title": "Când nu mai ești expertul principal",
+      "context": "Un coleg preia conducerea unui proiect pe care Victor îl coordona anterior. Victor vrea să ajute, dar îi este greu să nu controleze.",
+      "choices": [
+        {
+          "id": "option-1",
+          "text": "Intervin în fiecare decizie",
+          "consequenceId": "consequence-1",
+          "consequence": "Oferă experiență, dar subminează noua conducere."
+        },
+        {
+          "id": "option-2",
+          "text": "Mă retrag ostil",
+          "consequenceId": "consequence-2",
+          "consequence": "Respectă formal schimbarea, dar pierde colaborarea."
+        },
+        {
+          "id": "option-3",
+          "text": "Negociez un rol de sprijin",
+          "consequenceId": "consequence-3",
+          "consequence": "Poate contribui fără să conducă totul."
+        }
+      ],
+      "reflection": "Ce oferă experiența atunci când nu deține controlul?",
+      "perspective": {
+        "text": "Perspectivă editorială de adăugat și verificat; nu prezenta acest câmp ca aprobat.",
+        "status": "pending_human_review"
+      },
+      "practicalAction": "Stabilește o responsabilitate clară de mentor.",
+      "completion": "Poți reveni asupra poveștii și explora altă alegere. Nu există un scor al persoanei tale.",
+      "editorialStatus": "draft",
+      "rightsStatus": "pending",
+      "contentVersion": 1
+    },
+    {
+      "id": "45-59-e27",
+      "slug": "ce-pastrez-din-cariera",
+      "ageGroup": "45-59",
+      "lifeStage": "Maturitate",
+      "chapterId": "C6",
+      "chapterTitle": "Valori, sens și acțiune",
+      "ordinal": 27,
+      "title": "Ce păstrez din carieră?",
+      "context": "După o reorganizare, Dan poate rămâne într-un rol sigur sau poate începe un proiect mai mic, cu semnificație personală.",
+      "choices": [
+        {
+          "id": "option-1",
+          "text": "Aleg numai siguranța",
+          "consequenceId": "consequence-1",
+          "consequence": "Păstrează predictibilitatea, dar proiectul personal rămâne neexplorat."
+        },
+        {
+          "id": "option-2",
+          "text": "Renunț imediat la tot",
+          "consequenceId": "consequence-2",
+          "consequence": "Câștigă libertate, dar poate periclita veniturile."
+        },
+        {
+          "id": "option-3",
+          "text": "Testez proiectul gradual",
+          "consequenceId": "consequence-3",
+          "consequence": "Poate evalua interesul și sustenabilitatea."
+        }
+      ],
+      "reflection": "Ce contează mai mult acum: titlul sau munca însăși?",
+      "perspective": {
+        "text": "Perspectivă editorială de adăugat și verificat; nu prezenta acest câmp ca aprobat.",
+        "status": "pending_human_review"
+      },
+      "practicalAction": "Descrie primul experiment cu risc mic.",
+      "completion": "Poți reveni asupra poveștii și explora altă alegere. Nu există un scor al persoanei tale.",
+      "editorialStatus": "draft",
+      "rightsStatus": "pending",
+      "contentVersion": 1
+    },
+    {
+      "id": "45-59-e28",
+      "slug": "ce-las-generatiei-urmatoare",
+      "ageGroup": "45-59",
+      "lifeStage": "Maturitate",
+      "chapterId": "C6",
+      "chapterTitle": "Valori, sens și acțiune",
+      "ordinal": 28,
+      "title": "Ce las generației următoare?",
+      "context": "Ana este invitată să împărtășească lecții profesionale într-un atelier. Vrea să fie utilă, fără să pară moralizatoare.",
+      "choices": [
+        {
+          "id": "option-1",
+          "text": "Ofer reguli absolute",
+          "consequenceId": "consequence-1",
+          "consequence": "Transmite certitudine, dar limitează reflecția participanților."
+        },
+        {
+          "id": "option-2",
+          "text": "Refuz să vorbesc",
+          "consequenceId": "consequence-2",
+          "consequence": "Evită expunerea, dar pierde ocazia de a contribui."
+        },
+        {
+          "id": "option-3",
+          "text": "Povestesc decizii și incertitudini",
+          "consequenceId": "consequence-3",
+          "consequence": "Oferă exemple din care ceilalți pot alege singuri."
+        }
+      ],
+      "reflection": "Ce este mai util: rețeta sau povestea unui compromis?",
+      "perspective": {
+        "text": "Perspectivă editorială de adăugat și verificat; nu prezenta acest câmp ca aprobat.",
+        "status": "pending_human_review"
+      },
+      "practicalAction": "Scrie o lecție sub forma unei situații concrete.",
+      "completion": "Poți reveni asupra poveștii și explora altă alegere. Nu există un scor al persoanei tale.",
+      "editorialStatus": "draft",
+      "rightsStatus": "pending",
+      "contentVersion": 1
+    },
+    {
+      "id": "45-59-e29",
+      "slug": "schimbarea-directiei-la-50-de-ani",
+      "ageGroup": "45-59",
+      "lifeStage": "Maturitate",
+      "chapterId": "C6",
+      "chapterTitle": "Valori, sens și acțiune",
+      "ordinal": 29,
+      "title": "Schimbarea direcției la 50 de ani",
+      "context": "Florin descoperă că valorile care i-au condus alegerile s-au schimbat. Prietenii îl consideră inconsecvent.",
+      "choices": [
+        {
+          "id": "option-1",
+          "text": "Îmi neg noua perspectivă",
+          "consequenceId": "consequence-1",
+          "consequence": "Păstrează aprobarea, dar se îndepărtează de sine."
+        },
+        {
+          "id": "option-2",
+          "text": "Rup toate legăturile",
+          "consequenceId": "consequence-2",
+          "consequence": "Își afirmă autonomia, dar pierde relații."
+        },
+        {
+          "id": "option-3",
+          "text": "Explic schimbarea și accept dezacordul",
+          "consequenceId": "consequence-3",
+          "consequence": "Poate construi o direcție coerentă fără unanimitate."
+        }
+      ],
+      "reflection": "De ce consecvența nu înseamnă să rămâi neschimbat?",
+      "perspective": {
+        "text": "Perspectivă editorială de adăugat și verificat; nu prezenta acest câmp ca aprobat.",
+        "status": "pending_human_review"
+      },
+      "practicalAction": "Numește o valoare care a evoluat odată cu tine.",
+      "completion": "Poți reveni asupra poveștii și explora altă alegere. Nu există un scor al persoanei tale.",
+      "editorialStatus": "draft",
+      "rightsStatus": "pending",
+      "contentVersion": 1
+    },
+    {
+      "id": "45-59-e30",
+      "slug": "convingerea-ca-trebuie-sa-poti-singur",
+      "ageGroup": "45-59",
+      "lifeStage": "Maturitate",
+      "chapterId": "C6",
+      "chapterTitle": "Valori, sens și acțiune",
+      "ordinal": 30,
+      "title": "Convingerea că trebuie să poți singur",
+      "context": "Oana coordonează un proiect comunitar și observă că volumul a depășit capacitatea sa.",
+      "choices": [
+        {
+          "id": "option-1",
+          "text": "Continui singură",
+          "consequenceId": "consequence-1",
+          "consequence": "Păstrează controlul, dar riscă întârzieri și epuizare."
+        },
+        {
+          "id": "option-2",
+          "text": "Închid proiectul fără discuții",
+          "consequenceId": "consequence-2",
+          "consequence": "Reduce efortul, dar îi lasă pe ceilalți fără context."
+        },
+        {
+          "id": "option-3",
+          "text": "Invit colaboratori cu roluri clare",
+          "consequenceId": "consequence-3",
+          "consequence": "Poate crește sustenabilitatea, chiar dacă pierde puțin control."
+        }
+      ],
+      "reflection": "Ce parte a responsabilității poate fi împărțită?",
+      "perspective": {
+        "text": "Perspectivă editorială de adăugat și verificat; nu prezenta acest câmp ca aprobat.",
+        "status": "pending_human_review"
+      },
+      "practicalAction": "Deleagă o activitate cu obiectiv clar.",
+      "completion": "Poți reveni asupra poveștii și explora altă alegere. Nu există un scor al persoanei tale.",
+      "editorialStatus": "draft",
+      "rightsStatus": "pending",
+      "contentVersion": 1
+    },
+    {
+      "id": "60plus-e01",
+      "slug": "mesajul-de-la-institutie",
+      "ageGroup": "60+",
+      "lifeStage": "Înțelepciune",
+      "chapterId": "C1",
+      "chapterTitle": "Gândire critică și discernământ",
+      "ordinal": 1,
+      "title": "Mesajul de la instituție",
+      "context": "Elena primește un SMS care cere confirmarea urgentă a datelor bancare printr-un link.",
+      "choices": [
+        {
+          "id": "option-1",
+          "text": "Completez datele",
+          "consequenceId": "consequence-1",
+          "consequence": "Poate pierde controlul asupra informațiilor personale."
+        },
+        {
+          "id": "option-2",
+          "text": "Șterg fără să verific",
+          "consequenceId": "consequence-2",
+          "consequence": "Evită linkul, dar nu clarifică eventualul mesaj real."
+        },
+        {
+          "id": "option-3",
+          "text": "Contactez instituția prin canal oficial",
+          "consequenceId": "consequence-3",
+          "consequence": "Poate verifica solicitarea independent."
+        }
+      ],
+      "reflection": "De ce urgența este folosită în încercările de fraudă?",
+      "perspective": {
+        "text": "Perspectivă editorială de adăugat și verificat; nu prezenta acest câmp ca aprobat.",
+        "status": "pending_human_review"
+      },
+      "practicalAction": "Salvează un contact oficial verificat.",
+      "completion": "Poți reveni asupra poveștii și explora altă alegere. Nu există un scor al persoanei tale.",
+      "editorialStatus": "draft",
+      "rightsStatus": "pending",
+      "contentVersion": 1
+    },
+    {
+      "id": "60plus-e02",
+      "slug": "fotografia-scoasa-din-context",
+      "ageGroup": "60+",
+      "lifeStage": "Înțelepciune",
+      "chapterId": "C1",
+      "chapterTitle": "Gândire critică și discernământ",
+      "ordinal": 2,
+      "title": "Fotografia scoasă din context",
+      "context": "Într-un grup circulă o imagine care pare să arate un incident grav. Nu sunt menționate data ori locul.",
+      "choices": [
+        {
+          "id": "option-1",
+          "text": "O trimit mai departe",
+          "consequenceId": "consequence-1",
+          "consequence": "Crește răspândirea unei informații potențial eronate."
+        },
+        {
+          "id": "option-2",
+          "text": "O resping pentru că pare incredibilă",
+          "consequenceId": "consequence-2",
+          "consequence": "Nu distribuie, dar nu știe dacă este autentică."
+        },
+        {
+          "id": "option-3",
+          "text": "Caut proveniența și data",
+          "consequenceId": "consequence-3",
+          "consequence": "Poate descoperi că fotografia este veche ori prezentată greșit."
+        }
+      ],
+      "reflection": "Ce nu poate spune o fotografie singură?",
+      "perspective": {
+        "text": "Perspectivă editorială de adăugat și verificat; nu prezenta acest câmp ca aprobat.",
+        "status": "pending_human_review"
+      },
+      "practicalAction": "Verifică data unei imagini distribuite.",
+      "completion": "Poți reveni asupra poveștii și explora altă alegere. Nu există un scor al persoanei tale.",
+      "editorialStatus": "draft",
+      "rightsStatus": "pending",
+      "contentVersion": 1
+    },
+    {
+      "id": "60plus-e03",
+      "slug": "sfatul-primit-online",
+      "ageGroup": "60+",
+      "lifeStage": "Înțelepciune",
+      "chapterId": "C1",
+      "chapterTitle": "Gândire critică și discernământ",
+      "ordinal": 3,
+      "title": "Sfatul primit online",
+      "context": "Un influencer recomandă un supliment drept soluție pentru numeroase probleme. Mesajul conține link de cumpărare.",
+      "choices": [
+        {
+          "id": "option-1",
+          "text": "Îl cumpăr imediat",
+          "consequenceId": "consequence-1",
+          "consequence": "Cheltuiește bani fără dovada că îi este potrivit."
+        },
+        {
+          "id": "option-2",
+          "text": "Declar toate suplimentele inutile",
+          "consequenceId": "consequence-2",
+          "consequence": "Generalizează mai mult decât permite situația."
+        },
+        {
+          "id": "option-3",
+          "text": "Caut dovezi și discut cu specialistul potrivit",
+          "consequenceId": "consequence-3",
+          "consequence": "Poate distinge marketingul de informațiile utile."
+        }
+      ],
+      "reflection": "Cum influențează interesul comercial un mesaj?",
+      "perspective": {
+        "text": "Perspectivă editorială de adăugat și verificat; nu prezenta acest câmp ca aprobat.",
+        "status": "pending_human_review"
+      },
+      "practicalAction": "Caută cine beneficiază de cumpărare.",
+      "completion": "Poți reveni asupra poveștii și explora altă alegere. Nu există un scor al persoanei tale.",
+      "editorialStatus": "draft",
+      "rightsStatus": "pending",
+      "contentVersion": 1
+    },
+    {
+      "id": "60plus-e04",
+      "slug": "articolul-cu-titlu-alarmant",
+      "ageGroup": "60+",
+      "lifeStage": "Înțelepciune",
+      "chapterId": "C1",
+      "chapterTitle": "Gândire critică și discernământ",
+      "ordinal": 4,
+      "title": "Articolul cu titlu alarmant",
+      "context": "Un site publică un titlu despre o schimbare care ar afecta toate pensiile; textul nu indică un act oficial.",
+      "choices": [
+        {
+          "id": "option-1",
+          "text": "Îmi reorganizez bugetul imediat",
+          "consequenceId": "consequence-1",
+          "consequence": "Poate lua decizii bazate pe un zvon."
+        },
+        {
+          "id": "option-2",
+          "text": "Ignor definitiv orice informare",
+          "consequenceId": "consequence-2",
+          "consequence": "Evită alarma, dar și actualizările autentice."
+        },
+        {
+          "id": "option-3",
+          "text": "Verific instituția și data comunicatului",
+          "consequenceId": "consequence-3",
+          "consequence": "Poate evalua implicațiile reale, dacă există."
+        }
+      ],
+      "reflection": "Ce diferență este între posibil și confirmat?",
+      "perspective": {
+        "text": "Perspectivă editorială de adăugat și verificat; nu prezenta acest câmp ca aprobat.",
+        "status": "pending_human_review"
+      },
+      "practicalAction": "Verifică un anunț la sursa instituțională.",
+      "completion": "Poți reveni asupra poveștii și explora altă alegere. Nu există un scor al persoanei tale.",
+      "editorialStatus": "draft",
+      "rightsStatus": "pending",
+      "contentVersion": 1
+    },
+    {
+      "id": "60plus-e05",
+      "slug": "povestea-nostalgica",
+      "ageGroup": "60+",
+      "lifeStage": "Înțelepciune",
+      "chapterId": "C1",
+      "chapterTitle": "Gândire critică și discernământ",
+      "ordinal": 5,
+      "title": "Povestea nostalgică",
+      "context": "Un prieten susține că „înainte toți oamenii erau mai corecți”, pornind de la o amintire din tinerețe.",
+      "choices": [
+        {
+          "id": "option-1",
+          "text": "Sunt de acord fără rezerve",
+          "consequenceId": "consequence-1",
+          "consequence": "Transformă o experiență personală în regulă universală."
+        },
+        {
+          "id": "option-2",
+          "text": "Îl contrazic și îl ironizez",
+          "consequenceId": "consequence-2",
+          "consequence": "Poate răni relația fără să clarifice ideea."
+        },
+        {
+          "id": "option-3",
+          "text": "Separăm amintirea de generalizare",
+          "consequenceId": "consequence-3",
+          "consequence": "Pot păstra valoarea poveștii fără concluzii absolute."
+        }
+      ],
+      "reflection": "Cum influențează memoria felul în care judeci prezentul?",
+      "perspective": {
+        "text": "Perspectivă editorială de adăugat și verificat; nu prezenta acest câmp ca aprobat.",
+        "status": "pending_human_review"
+      },
+      "practicalAction": "Identifică o amintire și ce poate sau nu demonstra.",
+      "completion": "Poți reveni asupra poveștii și explora altă alegere. Nu există un scor al persoanei tale.",
+      "editorialStatus": "draft",
+      "rightsStatus": "pending",
+      "contentVersion": 1
+    },
+    {
+      "id": "60plus-e06",
+      "slug": "cursul-de-fotografie",
+      "ageGroup": "60+",
+      "lifeStage": "Înțelepciune",
+      "chapterId": "C2",
+      "chapterTitle": "Decizii și priorități",
+      "ordinal": 6,
+      "title": "Cursul de fotografie",
+      "context": "Maria găsește un atelier de fotografie pentru începători și se teme că nu va ține pasul.",
+      "choices": [
+        {
+          "id": "option-1",
+          "text": "Renunț înainte să încerc",
+          "consequenceId": "consequence-1",
+          "consequence": "Evită disconfortul, dar nu află dacă i-ar plăcea."
+        },
+        {
+          "id": "option-2",
+          "text": "Mă înscriu la nivel avansat",
+          "consequenceId": "consequence-2",
+          "consequence": "Își urmează interesul, dar poate fi copleșită."
+        },
+        {
+          "id": "option-3",
+          "text": "Încerc întâi o lecție introductivă",
+          "consequenceId": "consequence-3",
+          "consequence": "Poate explora fără presiunea performanței."
+        }
+      ],
+      "reflection": "Ce înveți când nu urmărești să fii cel mai bun?",
+      "perspective": {
+        "text": "Perspectivă editorială de adăugat și verificat; nu prezenta acest câmp ca aprobat.",
+        "status": "pending_human_review"
+      },
+      "practicalAction": "Alege o abilitate nouă de încercat.",
+      "completion": "Poți reveni asupra poveștii și explora altă alegere. Nu există un scor al persoanei tale.",
+      "editorialStatus": "draft",
+      "rightsStatus": "pending",
+      "contentVersion": 1
+    },
+    {
+      "id": "60plus-e07",
+      "slug": "banii-pentru-un-cadou",
+      "ageGroup": "60+",
+      "lifeStage": "Înțelepciune",
+      "chapterId": "C2",
+      "chapterTitle": "Decizii și priorități",
+      "ordinal": 7,
+      "title": "Banii pentru un cadou",
+      "context": "Ion vrea să ofere un cadou generos nepoților, dar are și cheltuieli proprii importante.",
+      "choices": [
+        {
+          "id": "option-1",
+          "text": "Cheltuiesc toată rezerva",
+          "consequenceId": "consequence-1",
+          "consequence": "Oferă bucurie, dar reduce siguranța bugetului."
+        },
+        {
+          "id": "option-2",
+          "text": "Nu mai fac niciun gest",
+          "consequenceId": "consequence-2",
+          "consequence": "Protejează banii, dar pierde o formă dorită de apropiere."
+        },
+        {
+          "id": "option-3",
+          "text": "Aleg un cadou în limitele mele",
+          "consequenceId": "consequence-3",
+          "consequence": "Poate exprima afecțiunea fără presiune financiară."
+        }
+      ],
+      "reflection": "Cât valorează gestul dincolo de preț?",
+      "perspective": {
+        "text": "Perspectivă editorială de adăugat și verificat; nu prezenta acest câmp ca aprobat.",
+        "status": "pending_human_review"
+      },
+      "practicalAction": "Stabilește o limită confortabilă pentru cadouri.",
+      "completion": "Poți reveni asupra poveștii și explora altă alegere. Nu există un scor al persoanei tale.",
+      "editorialStatus": "draft",
+      "rightsStatus": "pending",
+      "contentVersion": 1
+    },
+    {
+      "id": "60plus-e08",
+      "slug": "programul-familiei",
+      "ageGroup": "60+",
+      "lifeStage": "Înțelepciune",
+      "chapterId": "C2",
+      "chapterTitle": "Decizii și priorități",
+      "ordinal": 8,
+      "title": "Programul familiei",
+      "context": "Copiii adulți presupun că Victor este disponibil în fiecare weekend pentru diverse sarcini. Victor are alte planuri.",
+      "choices": [
+        {
+          "id": "option-1",
+          "text": "Accept mereu",
+          "consequenceId": "consequence-1",
+          "consequence": "Ajută, dar renunță la activitățile sale."
+        },
+        {
+          "id": "option-2",
+          "text": "Refuz orice solicitare",
+          "consequenceId": "consequence-2",
+          "consequence": "Recâștigă timp, dar ignoră unele nevoi reale."
+        },
+        {
+          "id": "option-3",
+          "text": "Discut disponibilitatea și facem un calendar",
+          "consequenceId": "consequence-3",
+          "consequence": "Pot avea așteptări mai clare."
+        }
+      ],
+      "reflection": "Cum arată autonomia într-o familie apropiată?",
+      "perspective": {
+        "text": "Perspectivă editorială de adăugat și verificat; nu prezenta acest câmp ca aprobat.",
+        "status": "pending_human_review"
+      },
+      "practicalAction": "Comunică un interval pe care vrei să îl păstrezi.",
+      "completion": "Poți reveni asupra poveștii și explora altă alegere. Nu există un scor al persoanei tale.",
+      "editorialStatus": "draft",
+      "rightsStatus": "pending",
+      "contentVersion": 1
+    },
+    {
+      "id": "60plus-e09",
+      "slug": "o-noua-activitate-in-comunitate",
+      "ageGroup": "60+",
+      "lifeStage": "Înțelepciune",
+      "chapterId": "C2",
+      "chapterTitle": "Decizii și priorități",
+      "ordinal": 9,
+      "title": "O nouă activitate în comunitate",
+      "context": "O asociație locală propune un proiect care pare interesant, dar presupune mai mult timp decât estimase Ana.",
+      "choices": [
+        {
+          "id": "option-1",
+          "text": "Promit multe ore",
+          "consequenceId": "consequence-1",
+          "consequence": "Contribuie, dar riscă să nu susțină angajamentul."
+        },
+        {
+          "id": "option-2",
+          "text": "Refuz pentru că nu cunosc pe nimeni",
+          "consequenceId": "consequence-2",
+          "consequence": "Evită disconfortul, dar pierde o ocazie de conectare."
+        },
+        {
+          "id": "option-3",
+          "text": "Particip la o activitate de probă",
+          "consequenceId": "consequence-3",
+          "consequence": "Poate observa dacă proiectul i se potrivește."
+        }
+      ],
+      "reflection": "Ce tip de contribuție îți aduce energie?",
+      "perspective": {
+        "text": "Perspectivă editorială de adăugat și verificat; nu prezenta acest câmp ca aprobat.",
+        "status": "pending_human_review"
+      },
+      "practicalAction": "Încearcă un eveniment comunitar fără angajament lung.",
+      "completion": "Poți reveni asupra poveștii și explora altă alegere. Nu există un scor al persoanei tale.",
+      "editorialStatus": "draft",
+      "rightsStatus": "pending",
+      "contentVersion": 1
+    },
+    {
+      "id": "60plus-e10",
+      "slug": "calatoria-spontana",
+      "ageGroup": "60+",
+      "lifeStage": "Înțelepciune",
+      "chapterId": "C2",
+      "chapterTitle": "Decizii și priorități",
+      "ordinal": 10,
+      "title": "Călătoria spontană",
+      "context": "Doi prieteni propun o excursie neașteptată. Elena are buget, dar și alte planuri.",
+      "choices": [
+        {
+          "id": "option-1",
+          "text": "Accept pe loc",
+          "consequenceId": "consequence-1",
+          "consequence": "Se bucură de spontaneitate, dar amână obligații."
+        },
+        {
+          "id": "option-2",
+          "text": "Refuz automat schimbările",
+          "consequenceId": "consequence-2",
+          "consequence": "Protejează rutina, dar pierde experiențe dorite."
+        },
+        {
+          "id": "option-3",
+          "text": "Verific costurile și programul",
+          "consequenceId": "consequence-3",
+          "consequence": "Poate decide fără să confunde spontaneitatea cu impulsul."
+        }
+      ],
+      "reflection": "Când schimbarea este oportunitate și când este presiune?",
+      "perspective": {
+        "text": "Perspectivă editorială de adăugat și verificat; nu prezenta acest câmp ca aprobat.",
+        "status": "pending_human_review"
+      },
+      "practicalAction": "Notează ce ai nevoie să afli înainte de un drum.",
+      "completion": "Poți reveni asupra poveștii și explora altă alegere. Nu există un scor al persoanei tale.",
+      "editorialStatus": "draft",
+      "rightsStatus": "pending",
+      "contentVersion": 1
+    },
+    {
+      "id": "60plus-e11",
+      "slug": "telefonul-nou",
+      "ageGroup": "60+",
+      "lifeStage": "Înțelepciune",
+      "chapterId": "C3",
+      "chapterTitle": "Emoții și autoreglare",
+      "ordinal": 11,
+      "title": "Telefonul nou",
+      "context": "O aplicație utilă nu mai funcționează pe telefonul lui Petru. Vânzătorul propune cel mai scump model.",
+      "choices": [
+        {
+          "id": "option-1",
+          "text": "Îl cumpăr imediat",
+          "consequenceId": "consequence-1",
+          "consequence": "Rezolvă compatibilitatea, dar poate plăti pentru funcții inutile."
+        },
+        {
+          "id": "option-2",
+          "text": "Renunț la orice telefon",
+          "consequenceId": "consequence-2",
+          "consequence": "Evită cheltuiala, dar pierde accesul la servicii utile."
+        },
+        {
+          "id": "option-3",
+          "text": "Compar nevoile și modelele",
+          "consequenceId": "consequence-3",
+          "consequence": "Poate alege un dispozitiv adecvat fără presiune."
+        }
+      ],
+      "reflection": "Ce funcții îți sunt necesare cu adevărat?",
+      "perspective": {
+        "text": "Perspectivă editorială de adăugat și verificat; nu prezenta acest câmp ca aprobat.",
+        "status": "pending_human_review"
+      },
+      "practicalAction": "Fă o listă cu trei funcții esențiale.",
+      "completion": "Poți reveni asupra poveștii și explora altă alegere. Nu există un scor al persoanei tale.",
+      "editorialStatus": "draft",
+      "rightsStatus": "pending",
+      "contentVersion": 1
+    },
+    {
+      "id": "60plus-e12",
+      "slug": "plimbarea-amanata",
+      "ageGroup": "60+",
+      "lifeStage": "Înțelepciune",
+      "chapterId": "C3",
+      "chapterTitle": "Emoții și autoreglare",
+      "ordinal": 12,
+      "title": "Plimbarea amânată",
+      "context": "Maria vrea să iasă mai des la plimbare, dar își amână planul când vremea nu pare ideală.",
+      "choices": [
+        {
+          "id": "option-1",
+          "text": "Mă forțez indiferent de condiții",
+          "consequenceId": "consequence-1",
+          "consequence": "Păstrează regula, dar ignoră propriul confort și siguranța."
+        },
+        {
+          "id": "option-2",
+          "text": "Renunț la obicei",
+          "consequenceId": "consequence-2",
+          "consequence": "Evită inconvenientele, dar pierde o activitate plăcută."
+        },
+        {
+          "id": "option-3",
+          "text": "Aleg variante potrivite zilei",
+          "consequenceId": "consequence-3",
+          "consequence": "Poate păstra mișcarea în mod flexibil."
+        }
+      ],
+      "reflection": "Cum arată consecvența fără rigiditate?",
+      "perspective": {
+        "text": "Perspectivă editorială de adăugat și verificat; nu prezenta acest câmp ca aprobat.",
+        "status": "pending_human_review"
+      },
+      "practicalAction": "Găsește două alternative pentru zile diferite.",
+      "completion": "Poți reveni asupra poveștii și explora altă alegere. Nu există un scor al persoanei tale.",
+      "editorialStatus": "draft",
+      "rightsStatus": "pending",
+      "contentVersion": 1
+    },
+    {
+      "id": "60plus-e13",
+      "slug": "prima-intalnire-din-nou",
+      "ageGroup": "60+",
+      "lifeStage": "Înțelepciune",
+      "chapterId": "C3",
+      "chapterTitle": "Emoții și autoreglare",
+      "ordinal": 13,
+      "title": "Prima întâlnire din nou",
+      "context": "După o perioadă lungă fără relații romantice, Corina acceptă o invitație la cafea, dar are emoții.",
+      "choices": [
+        {
+          "id": "option-1",
+          "text": "Promit o relație înainte de a cunoaște persoana",
+          "consequenceId": "consequence-1",
+          "consequence": "Creează așteptări rapide."
+        },
+        {
+          "id": "option-2",
+          "text": "Refuz fiindcă sunt nesigură",
+          "consequenceId": "consequence-2",
+          "consequence": "Evită disconfortul, dar nu explorează posibilitatea."
+        },
+        {
+          "id": "option-3",
+          "text": "Accept o întâlnire într-un cadru sigur",
+          "consequenceId": "consequence-3",
+          "consequence": "Poate cunoaște persoana fără obligații ulterioare."
+        }
+      ],
+      "reflection": "Cum rămâi deschis păstrând limitele personale?",
+      "perspective": {
+        "text": "Perspectivă editorială de adăugat și verificat; nu prezenta acest câmp ca aprobat.",
+        "status": "pending_human_review"
+      },
+      "practicalAction": "Notează o limită și o curiozitate pentru o întâlnire.",
+      "completion": "Poți reveni asupra poveștii și explora altă alegere. Nu există un scor al persoanei tale.",
+      "editorialStatus": "draft",
+      "rightsStatus": "pending",
+      "contentVersion": 1
+    },
+    {
+      "id": "60plus-e14",
+      "slug": "oboseala-dupa-o-zi-plina",
+      "ageGroup": "60+",
+      "lifeStage": "Înțelepciune",
+      "chapterId": "C3",
+      "chapterTitle": "Emoții și autoreglare",
+      "ordinal": 14,
+      "title": "Oboseala după o zi plină",
+      "context": "Ion se simte obosit după o zi cu activități și promisiuni pentru alții.",
+      "choices": [
+        {
+          "id": "option-1",
+          "text": "Mă învinovățesc dacă nu continui",
+          "consequenceId": "consequence-1",
+          "consequence": "Poate ignora nevoia de recuperare."
+        },
+        {
+          "id": "option-2",
+          "text": "Anulez tot viitorul program",
+          "consequenceId": "consequence-2",
+          "consequence": "Recuperează spațiu, dar renunță și la lucruri dorite."
+        },
+        {
+          "id": "option-3",
+          "text": "Revizuiesc ritmul și nevoile",
+          "consequenceId": "consequence-3",
+          "consequence": "Poate păstra activități importante într-o formă sustenabilă."
+        }
+      ],
+      "reflection": "Ce diferență există între limită și eșec?",
+      "perspective": {
+        "text": "Perspectivă editorială de adăugat și verificat; nu prezenta acest câmp ca aprobat.",
+        "status": "pending_human_review"
+      },
+      "practicalAction": "Păstrează un interval de recuperare.",
+      "completion": "Poți reveni asupra poveștii și explora altă alegere. Nu există un scor al persoanei tale.",
+      "editorialStatus": "draft",
+      "rightsStatus": "pending",
+      "contentVersion": 1
+    },
+    {
+      "id": "60plus-e15",
+      "slug": "cand-un-plan-nu-iese",
+      "ageGroup": "60+",
+      "lifeStage": "Înțelepciune",
+      "chapterId": "C3",
+      "chapterTitle": "Emoții și autoreglare",
+      "ordinal": 15,
+      "title": "Când un plan nu iese",
+      "context": "Atelierul pe care îl aștepta Victor se anulează. Se simte dezamăgit și spune că nimic nu mai merită organizat.",
+      "choices": [
+        {
+          "id": "option-1",
+          "text": "Renunț la toate proiectele",
+          "consequenceId": "consequence-1",
+          "consequence": "Evită altă dezamăgire, dar își reduce opțiunile."
+        },
+        {
+          "id": "option-2",
+          "text": "Mă înscriu grăbit la orice",
+          "consequenceId": "consequence-2",
+          "consequence": "Umple golul, dar poate alege ceva nepotrivit."
+        },
+        {
+          "id": "option-3",
+          "text": "Recunosc emoția și caut o alternativă",
+          "consequenceId": "consequence-3",
+          "consequence": "Poate păstra interesul fără a nega eșecul punctual."
+        }
+      ],
+      "reflection": "De ce un eveniment nu definește toate posibilitățile?",
+      "perspective": {
+        "text": "Perspectivă editorială de adăugat și verificat; nu prezenta acest câmp ca aprobat.",
+        "status": "pending_human_review"
+      },
+      "practicalAction": "Alege un plan alternativ realist.",
+      "completion": "Poți reveni asupra poveștii și explora altă alegere. Nu există un scor al persoanei tale.",
+      "editorialStatus": "draft",
+      "rightsStatus": "pending",
+      "contentVersion": 1
+    },
+    {
+      "id": "60plus-e16",
+      "slug": "prietenul-de-demult",
+      "ageGroup": "60+",
+      "lifeStage": "Înțelepciune",
+      "chapterId": "C4",
+      "chapterTitle": "Relații și comunicare",
+      "ordinal": 16,
+      "title": "Prietenul de demult",
+      "context": "Victor primește un mesaj de la un prieten cu care nu a vorbit de mulți ani.",
+      "choices": [
+        {
+          "id": "option-1",
+          "text": "Ignor mesajul",
+          "consequenceId": "consequence-1",
+          "consequence": "Evită stânjeneala, dar pierde o posibilă reconectare."
+        },
+        {
+          "id": "option-2",
+          "text": "Promit întâlniri dese",
+          "consequenceId": "consequence-2",
+          "consequence": "Reia legătura, dar poate crea așteptări greu de menținut."
+        },
+        {
+          "id": "option-3",
+          "text": "Propun o discuție fără presiune",
+          "consequenceId": "consequence-3",
+          "consequence": "Pot descoperi cine sunt astăzi."
+        }
+      ],
+      "reflection": "Ce trebuie redescoperit într-o prietenie veche?",
+      "perspective": {
+        "text": "Perspectivă editorială de adăugat și verificat; nu prezenta acest câmp ca aprobat.",
+        "status": "pending_human_review"
+      },
+      "practicalAction": "Trimite un mesaj simplu de reconectare.",
+      "completion": "Poți reveni asupra poveștii și explora altă alegere. Nu există un scor al persoanei tale.",
+      "editorialStatus": "draft",
+      "rightsStatus": "pending",
+      "contentVersion": 1
+    },
+    {
+      "id": "60plus-e17",
+      "slug": "discutia-dintre-generatii",
+      "ageGroup": "60+",
+      "lifeStage": "Înțelepciune",
+      "chapterId": "C4",
+      "chapterTitle": "Relații și comunicare",
+      "ordinal": 17,
+      "title": "Discuția dintre generații",
+      "context": "Un membru mai tânăr al familiei are valori diferite. Ana se teme că relația se va răci.",
+      "choices": [
+        {
+          "id": "option-1",
+          "text": "Îi spun că greșește",
+          "consequenceId": "consequence-1",
+          "consequence": "Își exprimă convingerea, dar dialogul poate înceta."
+        },
+        {
+          "id": "option-2",
+          "text": "Îmi ascund complet opiniile",
+          "consequenceId": "consequence-2",
+          "consequence": "Păstrează liniștea, dar se simte neautentică."
+        },
+        {
+          "id": "option-3",
+          "text": "Pun întrebări și explic fără a impune",
+          "consequenceId": "consequence-3",
+          "consequence": "Pot înțelege diferențele fără acord obligatoriu."
+        }
+      ],
+      "reflection": "Cum poate respectul exista fără opinii identice?",
+      "perspective": {
+        "text": "Perspectivă editorială de adăugat și verificat; nu prezenta acest câmp ca aprobat.",
+        "status": "pending_human_review"
+      },
+      "practicalAction": "Pune o întrebare curioasă, nu retorică.",
+      "completion": "Poți reveni asupra poveștii și explora altă alegere. Nu există un scor al persoanei tale.",
+      "editorialStatus": "draft",
+      "rightsStatus": "pending",
+      "contentVersion": 1
+    },
+    {
+      "id": "60plus-e18",
+      "slug": "fotografia-fara-acord",
+      "ageGroup": "60+",
+      "lifeStage": "Înțelepciune",
+      "chapterId": "C4",
+      "chapterTitle": "Relații și comunicare",
+      "ordinal": 18,
+      "title": "Fotografia fără acord",
+      "context": "Familia publică o fotografie cu Maria pe internet fără să o întrebe. Ea preferă intimitatea.",
+      "choices": [
+        {
+          "id": "option-1",
+          "text": "Accept de rușine",
+          "consequenceId": "consequence-1",
+          "consequence": "Evită conflictul, dar limita îi este ignorată."
+        },
+        {
+          "id": "option-2",
+          "text": "Mă cert cu toți public",
+          "consequenceId": "consequence-2",
+          "consequence": "Poate agrava tensiunile."
+        },
+        {
+          "id": "option-3",
+          "text": "Cer eliminarea și explic preferința",
+          "consequenceId": "consequence-3",
+          "consequence": "Poate stabili o regulă clară pentru viitor."
+        }
+      ],
+      "reflection": "De ce consimțământul contează la orice vârstă?",
+      "perspective": {
+        "text": "Perspectivă editorială de adăugat și verificat; nu prezenta acest câmp ca aprobat.",
+        "status": "pending_human_review"
+      },
+      "practicalAction": "Spune explicit ce fotografii pot fi distribuite.",
+      "completion": "Poți reveni asupra poveștii și explora altă alegere. Nu există un scor al persoanei tale.",
+      "editorialStatus": "draft",
+      "rightsStatus": "pending",
+      "contentVersion": 1
+    },
+    {
+      "id": "60plus-e19",
+      "slug": "sfatul-pentru-nepotul-adult",
+      "ageGroup": "60+",
+      "lifeStage": "Înțelepciune",
+      "chapterId": "C4",
+      "chapterTitle": "Relații și comunicare",
+      "ordinal": 19,
+      "title": "Sfatul pentru nepotul adult",
+      "context": "Un nepot îi cere bunicii părerea despre o mutare. Bunica are experiență, dar nu cunoaște toate detaliile.",
+      "choices": [
+        {
+          "id": "option-1",
+          "text": "Îi spun ce să decidă",
+          "consequenceId": "consequence-1",
+          "consequence": "Oferă fermitate, dar poate ignora contextul."
+        },
+        {
+          "id": "option-2",
+          "text": "Refuz să vorbesc",
+          "consequenceId": "consequence-2",
+          "consequence": "Protejează libertatea, dar nu oferă sprijin dorit."
+        },
+        {
+          "id": "option-3",
+          "text": "Împărtășesc ce am observat și întreb ce contează",
+          "consequenceId": "consequence-3",
+          "consequence": "Poate ajuta la clarificare fără a decide în locul lui."
+        }
+      ],
+      "reflection": "Când experiența devine resursă, nu regulă?",
+      "perspective": {
+        "text": "Perspectivă editorială de adăugat și verificat; nu prezenta acest câmp ca aprobat.",
+        "status": "pending_human_review"
+      },
+      "practicalAction": "Povestește un compromis din viața ta.",
+      "completion": "Poți reveni asupra poveștii și explora altă alegere. Nu există un scor al persoanei tale.",
+      "editorialStatus": "draft",
+      "rightsStatus": "pending",
+      "contentVersion": 1
+    },
+    {
+      "id": "60plus-e20",
+      "slug": "vecinul-care-cere-ajutor",
+      "ageGroup": "60+",
+      "lifeStage": "Înțelepciune",
+      "chapterId": "C4",
+      "chapterTitle": "Relații și comunicare",
+      "ordinal": 20,
+      "title": "Vecinul care cere ajutor",
+      "context": "Un vecin îl roagă frecvent pe Petru să rezolve lucruri tehnice. Petru vrea să ajute, dar are și propriile planuri.",
+      "choices": [
+        {
+          "id": "option-1",
+          "text": "Spun mereu da",
+          "consequenceId": "consequence-1",
+          "consequence": "Relația rămâne cordială, dar timpul lui se reduce."
+        },
+        {
+          "id": "option-2",
+          "text": "Refuz ostil",
+          "consequenceId": "consequence-2",
+          "consequence": "Își recuperează timpul, dar poate deteriora relația."
+        },
+        {
+          "id": "option-3",
+          "text": "Ofer ajutor limitat sau indic resurse",
+          "consequenceId": "consequence-3",
+          "consequence": "Poate sprijini fără a prelua responsabilitatea."
+        }
+      ],
+      "reflection": "Cum stabilești limite fără să devii indiferent?",
+      "perspective": {
+        "text": "Perspectivă editorială de adăugat și verificat; nu prezenta acest câmp ca aprobat.",
+        "status": "pending_human_review"
+      },
+      "practicalAction": "Propune o formă de ajutor realistă.",
+      "completion": "Poți reveni asupra poveștii și explora altă alegere. Nu există un scor al persoanei tale.",
+      "editorialStatus": "draft",
+      "rightsStatus": "pending",
+      "contentVersion": 1
+    },
+    {
+      "id": "60plus-e21",
+      "slug": "voluntariatul-cu-generatii-diferite",
+      "ageGroup": "60+",
+      "lifeStage": "Înțelepciune",
+      "chapterId": "C5",
+      "chapterTitle": "Disciplină și adaptare",
+      "ordinal": 21,
+      "title": "Voluntariatul cu generații diferite",
+      "context": "La o activitate comună, tinerii propun un ritm diferit de cel cu care Elena este obișnuită.",
+      "choices": [
+        {
+          "id": "option-1",
+          "text": "Cer să se lucreze doar ca înainte",
+          "consequenceId": "consequence-1",
+          "consequence": "Păstrează controlul, dar exclude idei noi."
+        },
+        {
+          "id": "option-2",
+          "text": "Mă retrag din proiect",
+          "consequenceId": "consequence-2",
+          "consequence": "Evită diferențele, dar pierde colaborarea."
+        },
+        {
+          "id": "option-3",
+          "text": "Discutăm ritmurile și rolurile",
+          "consequenceId": "consequence-3",
+          "consequence": "Pot combina perspectivele."
+        }
+      ],
+      "reflection": "Ce poate învăța fiecare generație de la cealaltă?",
+      "perspective": {
+        "text": "Perspectivă editorială de adăugat și verificat; nu prezenta acest câmp ca aprobat.",
+        "status": "pending_human_review"
+      },
+      "practicalAction": "Întreabă pe cineva despre o metodă diferită.",
+      "completion": "Poți reveni asupra poveștii și explora altă alegere. Nu există un scor al persoanei tale.",
+      "editorialStatus": "draft",
+      "rightsStatus": "pending",
+      "contentVersion": 1
+    },
+    {
+      "id": "60plus-e22",
+      "slug": "cand-iti-este-greu-sa-ceri-ajutor",
+      "ageGroup": "60+",
+      "lifeStage": "Înțelepciune",
+      "chapterId": "C5",
+      "chapterTitle": "Disciplină și adaptare",
+      "ordinal": 22,
+      "title": "Când îți este greu să ceri ajutor",
+      "context": "Ion nu reușește să finalizeze o sarcină administrativă online și se simte jenat să întrebe.",
+      "choices": [
+        {
+          "id": "option-1",
+          "text": "Introduc date la întâmplare",
+          "consequenceId": "consequence-1",
+          "consequence": "Poate trimite informații greșite."
+        },
+        {
+          "id": "option-2",
+          "text": "Abandonez definitiv",
+          "consequenceId": "consequence-2",
+          "consequence": "Evită frustrarea, dar problema rămâne."
+        },
+        {
+          "id": "option-3",
+          "text": "Cer sprijin păstrând controlul datelor",
+          "consequenceId": "consequence-3",
+          "consequence": "Poate înțelege pașii fără a dezvălui parole."
+        }
+      ],
+      "reflection": "De ce ajutorul nu înseamnă pierderea autonomiei?",
+      "perspective": {
+        "text": "Perspectivă editorială de adăugat și verificat; nu prezenta acest câmp ca aprobat.",
+        "status": "pending_human_review"
+      },
+      "practicalAction": "Cere explicații pentru un singur pas, fără să comunici secrete.",
+      "completion": "Poți reveni asupra poveștii și explora altă alegere. Nu există un scor al persoanei tale.",
+      "editorialStatus": "draft",
+      "rightsStatus": "pending",
+      "contentVersion": 1
+    },
+    {
+      "id": "60plus-e23",
+      "slug": "clubul-de-lectura",
+      "ageGroup": "60+",
+      "lifeStage": "Înțelepciune",
+      "chapterId": "C5",
+      "chapterTitle": "Disciplină și adaptare",
+      "ordinal": 23,
+      "title": "Clubul de lectură",
+      "context": "Maria se gândește să participe la un club de lectură, dar nu îi place să vorbească în grupuri necunoscute.",
+      "choices": [
+        {
+          "id": "option-1",
+          "text": "Renunț înainte să încerc",
+          "consequenceId": "consequence-1",
+          "consequence": "Evită emoțiile, dar pierde o ocazie socială."
+        },
+        {
+          "id": "option-2",
+          "text": "Mă oblig să vorbesc mult",
+          "consequenceId": "consequence-2",
+          "consequence": "Participă, dar poate transforma experiența în presiune."
+        },
+        {
+          "id": "option-3",
+          "text": "Merg o dată și ascult mai mult",
+          "consequenceId": "consequence-3",
+          "consequence": "Poate descoperi dacă atmosfera i se potrivește."
+        }
+      ],
+      "reflection": "Cum explorezi fără să demonstrezi ceva?",
+      "perspective": {
+        "text": "Perspectivă editorială de adăugat și verificat; nu prezenta acest câmp ca aprobat.",
+        "status": "pending_human_review"
+      },
+      "practicalAction": "Alege o activitate socială de probă.",
+      "completion": "Poți reveni asupra poveștii și explora altă alegere. Nu există un scor al persoanei tale.",
+      "editorialStatus": "draft",
+      "rightsStatus": "pending",
+      "contentVersion": 1
+    },
+    {
+      "id": "60plus-e24",
+      "slug": "invatarea-unui-instrument",
+      "ageGroup": "60+",
+      "lifeStage": "Înțelepciune",
+      "chapterId": "C5",
+      "chapterTitle": "Disciplină și adaptare",
+      "ordinal": 24,
+      "title": "Învățarea unui instrument",
+      "context": "Petru vrea să reia chitara după treizeci de ani. Își amintește că înainte cânta mult mai bine.",
+      "choices": [
+        {
+          "id": "option-1",
+          "text": "Mă compar cu tânărul care eram",
+          "consequenceId": "consequence-1",
+          "consequence": "Își pierde plăcerea prin evaluare continuă."
+        },
+        {
+          "id": "option-2",
+          "text": "Pun chitara deoparte",
+          "consequenceId": "consequence-2",
+          "consequence": "Evită disconfortul, dar pierde interesul."
+        },
+        {
+          "id": "option-3",
+          "text": "Cânt puțin pentru bucuria exercițiului",
+          "consequenceId": "consequence-3",
+          "consequence": "Poate redescoperi muzica fără competiție."
+        }
+      ],
+      "reflection": "Trebuie să fii la nivelul de odinioară ca să te bucuri?",
+      "perspective": {
+        "text": "Perspectivă editorială de adăugat și verificat; nu prezenta acest câmp ca aprobat.",
+        "status": "pending_human_review"
+      },
+      "practicalAction": "Repetă un exercițiu muzical simplu.",
+      "completion": "Poți reveni asupra poveștii și explora altă alegere. Nu există un scor al persoanei tale.",
+      "editorialStatus": "draft",
+      "rightsStatus": "pending",
+      "contentVersion": 1
+    },
+    {
+      "id": "60plus-e25",
+      "slug": "jurnalul-amintirilor",
+      "ageGroup": "60+",
+      "lifeStage": "Înțelepciune",
+      "chapterId": "C5",
+      "chapterTitle": "Disciplină și adaptare",
+      "ordinal": 25,
+      "title": "Jurnalul amintirilor",
+      "context": "Ana dorește să scrie povești pentru familie, dar se teme că nu sunt suficient de importante.",
+      "choices": [
+        {
+          "id": "option-1",
+          "text": "Aștept să fie perfecte",
+          "consequenceId": "consequence-1",
+          "consequence": "Nu începe, deși ideile există."
+        },
+        {
+          "id": "option-2",
+          "text": "Scriu tot într-o noapte",
+          "consequenceId": "consequence-2",
+          "consequence": "Adună mult, dar se poate epuiza."
+        },
+        {
+          "id": "option-3",
+          "text": "Încep cu o întâmplare scurtă",
+          "consequenceId": "consequence-3",
+          "consequence": "Creează o arhivă personală pas cu pas."
+        }
+      ],
+      "reflection": "Ce face o amintire valoroasă pentru altcineva?",
+      "perspective": {
+        "text": "Perspectivă editorială de adăugat și verificat; nu prezenta acest câmp ca aprobat.",
+        "status": "pending_human_review"
+      },
+      "practicalAction": "Descrie o zi obișnuită de demult.",
+      "completion": "Poți reveni asupra poveștii și explora altă alegere. Nu există un scor al persoanei tale.",
+      "editorialStatus": "draft",
+      "rightsStatus": "pending",
+      "contentVersion": 1
+    },
+    {
+      "id": "60plus-e26",
+      "slug": "o-activitate-numai-pentru-mine",
+      "ageGroup": "60+",
+      "lifeStage": "Înțelepciune",
+      "chapterId": "C6",
+      "chapterTitle": "Valori, sens și acțiune",
+      "ordinal": 26,
+      "title": "O activitate numai pentru mine",
+      "context": "Elena are un program flexibil și mulți oameni îi cer să preia responsabilități. Își dorește și timp personal.",
+      "choices": [
+        {
+          "id": "option-1",
+          "text": "Accept toate cererile",
+          "consequenceId": "consequence-1",
+          "consequence": "Este utilă altora, dar propriile planuri dispar."
+        },
+        {
+          "id": "option-2",
+          "text": "Refuz orice legătură",
+          "consequenceId": "consequence-2",
+          "consequence": "Își protejează timpul, dar reduce apropierea."
+        },
+        {
+          "id": "option-3",
+          "text": "Îmi protejez o activitate și negociez restul",
+          "consequenceId": "consequence-3",
+          "consequence": "Poate menține sprijinul și autonomia."
+        }
+      ],
+      "reflection": "Când timpul propriu devine negociabil?",
+      "perspective": {
+        "text": "Perspectivă editorială de adăugat și verificat; nu prezenta acest câmp ca aprobat.",
+        "status": "pending_human_review"
+      },
+      "practicalAction": "Rezervă o oră pentru un interes personal.",
+      "completion": "Poți reveni asupra poveștii și explora altă alegere. Nu există un scor al persoanei tale.",
+      "editorialStatus": "draft",
+      "rightsStatus": "pending",
+      "contentVersion": 1
+    },
+    {
+      "id": "60plus-e27",
+      "slug": "ce-vreau-sa-transmit",
+      "ageGroup": "60+",
+      "lifeStage": "Înțelepciune",
+      "chapterId": "C6",
+      "chapterTitle": "Valori, sens și acțiune",
+      "ordinal": 27,
+      "title": "Ce vreau să transmit?",
+      "context": "Un grup local îl invită pe Victor să vorbească despre experiența profesională. Se teme să pară autoritar.",
+      "choices": [
+        {
+          "id": "option-1",
+          "text": "Prezint reguli obligatorii",
+          "consequenceId": "consequence-1",
+          "consequence": "Oferă certitudine, dar poate limita curiozitatea ascultătorilor."
+        },
+        {
+          "id": "option-2",
+          "text": "Refuz ocazia",
+          "consequenceId": "consequence-2",
+          "consequence": "Evită expunerea, dar pierde un prilej de contribuție."
+        },
+        {
+          "id": "option-3",
+          "text": "Spun povești cu alegeri și limite",
+          "consequenceId": "consequence-3",
+          "consequence": "Participanții pot extrage idei pentru propriile contexte."
+        }
+      ],
+      "reflection": "Cum transformi experiența în dialog?",
+      "perspective": {
+        "text": "Perspectivă editorială de adăugat și verificat; nu prezenta acest câmp ca aprobat.",
+        "status": "pending_human_review"
+      },
+      "practicalAction": "Scrie o lecție de viață ca întrebare.",
+      "completion": "Poți reveni asupra poveștii și explora altă alegere. Nu există un scor al persoanei tale.",
+      "editorialStatus": "draft",
+      "rightsStatus": "pending",
+      "contentVersion": 1
+    },
+    {
+      "id": "60plus-e28",
+      "slug": "o-zi-care-are-sens",
+      "ageGroup": "60+",
+      "lifeStage": "Înțelepciune",
+      "chapterId": "C6",
+      "chapterTitle": "Valori, sens și acțiune",
+      "ordinal": 28,
+      "title": "O zi care are sens",
+      "context": "După o schimbare de program, Ion are zile mai libere decât înainte și caută o structură care i se potrivește.",
+      "choices": [
+        {
+          "id": "option-1",
+          "text": "Umplu fiecare oră",
+          "consequenceId": "consequence-1",
+          "consequence": "Are activitate, dar poate recrea presiunea."
+        },
+        {
+          "id": "option-2",
+          "text": "Nu organizez nimic",
+          "consequenceId": "consequence-2",
+          "consequence": "Păstrează spontaneitatea, dar uneori simte lipsa direcției."
+        },
+        {
+          "id": "option-3",
+          "text": "Aleg câteva repere flexibile",
+          "consequenceId": "consequence-3",
+          "consequence": "Poate combina curiozitate, relații și odihnă."
+        }
+      ],
+      "reflection": "Ce diferență este între a fi ocupat și a fi împlinit?",
+      "perspective": {
+        "text": "Perspectivă editorială de adăugat și verificat; nu prezenta acest câmp ca aprobat.",
+        "status": "pending_human_review"
+      },
+      "practicalAction": "Planifică un moment de curiozitate săptămânal.",
+      "completion": "Poți reveni asupra poveștii și explora altă alegere. Nu există un scor al persoanei tale.",
+      "editorialStatus": "draft",
+      "rightsStatus": "pending",
+      "contentVersion": 1
+    },
+    {
+      "id": "60plus-e29",
+      "slug": "un-proiect-pentru-comunitate",
+      "ageGroup": "60+",
+      "lifeStage": "Înțelepciune",
+      "chapterId": "C6",
+      "chapterTitle": "Valori, sens și acțiune",
+      "ordinal": 29,
+      "title": "Un proiect pentru comunitate",
+      "context": "Maria ar vrea să ajute biblioteca locală să organizeze întâlniri între generații, dar nu a coordonat proiecte.",
+      "choices": [
+        {
+          "id": "option-1",
+          "text": "Preiau singură totul",
+          "consequenceId": "consequence-1",
+          "consequence": "Proiectul începe repede, dar responsabilitatea devine mare."
+        },
+        {
+          "id": "option-2",
+          "text": "Renunț pentru că nu sunt expertă",
+          "consequenceId": "consequence-2",
+          "consequence": "Evită incertitudinea, dar ideea rămâne netestată."
+        },
+        {
+          "id": "option-3",
+          "text": "Caut parteneri și pornesc mic",
+          "consequenceId": "consequence-3",
+          "consequence": "Poate valida interesul comunității gradual."
+        }
+      ],
+      "reflection": "Cum poate contribuția rămâne sustenabilă?",
+      "perspective": {
+        "text": "Perspectivă editorială de adăugat și verificat; nu prezenta acest câmp ca aprobat.",
+        "status": "pending_human_review"
+      },
+      "practicalAction": "Propune o întâlnire pilot cu un obiectiv clar.",
+      "completion": "Poți reveni asupra poveștii și explora altă alegere. Nu există un scor al persoanei tale.",
+      "editorialStatus": "draft",
+      "rightsStatus": "pending",
+      "contentVersion": 1
+    },
+    {
+      "id": "60plus-e30",
+      "slug": "trecutul-si-prezentul",
+      "ageGroup": "60+",
+      "lifeStage": "Înțelepciune",
+      "chapterId": "C6",
+      "chapterTitle": "Valori, sens și acțiune",
+      "ordinal": 30,
+      "title": "Trecutul și prezentul",
+      "context": "O persoană dragă îi spune Elenei că poveștile ei despre trecut sunt interesante, dar ar vrea să afle și cum vede prezentul.",
+      "choices": [
+        {
+          "id": "option-1",
+          "text": "Vorbesc doar despre trecut",
+          "consequenceId": "consequence-1",
+          "consequence": "Păstrează amintirile, dar conversația poate deveni unilaterală."
+        },
+        {
+          "id": "option-2",
+          "text": "Nu mai povestesc nimic",
+          "consequenceId": "consequence-2",
+          "consequence": "Evită stânjeneala, dar pierde conexiunea."
+        },
+        {
+          "id": "option-3",
+          "text": "Punem trecutul în dialog cu prezentul",
+          "consequenceId": "consequence-3",
+          "consequence": "Pot descoperi asemănări și schimbări neașteptate."
+        }
+      ],
+      "reflection": "Cum poate memoria ajuta curiozitatea pentru prezent?",
+      "perspective": {
+        "text": "Perspectivă editorială de adăugat și verificat; nu prezenta acest câmp ca aprobat.",
+        "status": "pending_human_review"
+      },
+      "practicalAction": "Întreabă pe cineva ce s-a schimbat cel mai mult pentru el.",
+      "completion": "Poți reveni asupra poveștii și explora altă alegere. Nu există un scor al persoanei tale.",
+      "editorialStatus": "draft",
+      "rightsStatus": "pending",
+      "contentVersion": 1
+    }
+  ]
+}
